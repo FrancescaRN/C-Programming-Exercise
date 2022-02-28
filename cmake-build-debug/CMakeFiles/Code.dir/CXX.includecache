@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Lucky/Documents/Uni/Year 2/SEM1/Prog 2/C_Sum/Code/Planet.cpp
+Planet.h
+C:/Users/Lucky/Documents/Uni/Year 2/SEM1/Prog 2/C_Sum/Code/Planet.h
+string
+-
+iostream
+-
+iomanip
+-
+
+C:/Users/Lucky/Documents/Uni/Year 2/SEM1/Prog 2/C_Sum/Code/Planet.h
+string
+-
+iostream
+-
+
+C:/Users/Lucky/Documents/Uni/Year 2/SEM1/Prog 2/C_Sum/Code/PlanetTest.cpp
+Planet.h
+C:/Users/Lucky/Documents/Uni/Year 2/SEM1/Prog 2/C_Sum/Code/Planet.h
+
+C:/Users/Lucky/Documents/Uni/Year 2/SEM1/Prog 2/C_Sum/Code/main.cpp
+fstream
+-
+vector
+-
+algorithm
+-
+sstream
+-
+cmath
+-
+Planet.h
+C:/Users/Lucky/Documents/Uni/Year 2/SEM1/Prog 2/C_Sum/Code/Planet.h
+

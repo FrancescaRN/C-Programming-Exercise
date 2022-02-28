@@ -1,0 +1,869 @@
+"K2-34 b", "K2-34", "Transit", 2016, "K2", 15.132, 559.381, 1742
+"HAT-P-3 b", "HAT-P-3", "Transit", 2007, "HATNet", 10.211, 189.109, 1170
+"WASP-56 b", "WASP-56", "Transit", 2012, "SuperWASP", 12.24, 181.473, 1216
+"WASP-92 b", "WASP-92", "Transit", 2016, "SuperWASP", 16.376, 255.853, 1871
+"Kepler-5 b", "Kepler-5", "Transit", 2009, "Kepler", 13.563, 648.373, 1692
+"XO-5 b", "XO-5", "Transit", 2008, "XO", 12.78, 378.2, 1230
+"WASP-166 b", "WASP-166", "Transit", 2019, "WASP-South", 7.062, 32.1008, 1270
+"K2-287 b", "K2-287", "Transit", 2018, "K2", 9.494, 100.116, 804
+"Kepler-40 b", "Kepler-40", "Transit", 2010, "Kepler", 14.235, 673.8, 1666
+"Kepler-8 b", "Kepler-8", "Transit", 2010, "Kepler", 15.906, 191.643, 1764
+"WASP-6 b", "WASP-6", "Transit", 2009, "SuperWASP", 13.787, 154.148, 1184
+"WASP-173 A b", "WASP-173 A", "Transit", 2018, "SuperWASP-South", 14.404, 1102.87, 1842
+"CoRoT-20 b", "CoRoT-20", "Transit", 2011, "CoRoT", 11.209, 1315.82, 1024
+"WASP-150 b", "WASP-150", "Transit", 2020, "SuperWASP-North", 11.994, 2688.84, 1460
+"K2-111 b", "K2-111", "Transit", 2017, "K2", 1.9, 8.6, 1309
+"Kepler-8 b", "Kepler-8", "Transit", 2010, "Kepler", 15.872, 187.52, 1680
+"WASP-3 b", "WASP-3", "Transit", 2007, "SuperWASP", 15.872, 645.195, 2020
+"XO-1 b", "XO-1", "Transit", 2006, "XO", 13.518, 291.768, 1196
+"WASP-2 b", "WASP-2", "Transit", 2007, "SuperWASP", 12.52, 290.484, 1300
+"CoRoT-12 b", "CoRoT-12", "Transit", 2010, "CoRoT", 15.065, 277.466, 1417
+"WASP-48 b", "WASP-48", "Transit", 2011, "SuperWASP", 15.65, 288, 1956
+"HATS-7 b", "HATS-7", "Transit", 2015, "HATSouth", 6.311, 38.1396, 1084
+"OGLE-TR-56 b", "OGLE-TR-56", "Transit", 2002, "OGLE", 15.278, 441.77, 2212
+"NGTS-16 b", "NGTS-16", "Transit", 2021, "Paranal Observatory", 14.572, 211.992, 1177
+"WASP-103 b", "WASP-103", "Transit", 2014, "SuperWASP", 17.127, 473.547, 2508
+"LHS 1140 b", "LHS 1140", "Transit", 2017, "MEarth Project", 1.43, 6.65, 230
+"EPIC 220674823 b", "EPIC 220674823", "Transit", 2016, "K2", 1.82, 9, 2063
+"Kepler-77 b", "Kepler-77", "Transit", 2013, "Kepler", 10.761, 136.661, 1440
+"WASP-3 b", "WASP-3", "Transit", 2007, "SuperWASP", 14.684, 559.381, 1960
+"KELT-11 b", "KELT-11", "Transit", 2017, "KELT-South", 15.356, 61.9768, 1712
+"XO-2 N b", "XO-2 N", "Transit", 2007, "XO", 11.018, 179.892, 1319
+"WASP-118 b", "WASP-118", "Transit", 2016, "SuperWASP", 16.141, 163.365, 1729
+"WASP-4 b", "WASP-4", "Transit", 2007, "SuperWASP", 15.211, 393.156, 1661
+"GJ 9827 c", "GJ 9827", "Transit", 2017, "K2", 1.269, 2.42, 811
+"HATS-63 b", "HATS-63", "Transit", 2018, "HATSouth", 13.529, 305.117, 1398
+"CoRoT-9 b", "CoRoT-9", "Transit", 2009, "CoRoT", 11.624, 262.528, 413
+"WASP-79 b", "WASP-79", "Transit", 2012, "SuperWASP", 17.15, 270.156, 1716
+"OGLE-TR-56 b", "OGLE-TR-56", "Transit", 2002, "OGLE", 19.436, 448.14, 2482
+"WASP-80 b", "WASP-80", "Transit", 2012, "SuperWASP", 10.65, 174.8, 800
+"K2-266 c", "K2-266", "Transit", 2018, "K2", 0.705, 0.29013, 664
+"CoRoT-13 b", "CoRoT-13", "Transit", 2010, "CoRoT", 14.034, 416.993, 1432
+"HATS-51 b", "HATS-51", "Transit", 2017, "HATSouth", 15.805, 244.093, 1553
+"CoRoT-5 b", "CoRoT-5", "Transit", 2009, "CoRoT", 15.558, 148.42, 1438
+"Kepler-68 b", "Kepler-68", "Transit", 2013, "Kepler", 2.31, 8.3, 1280
+"HR 8799 e", "HR 8799", "Imaging", 2010, "W. M. Keck Observatory", 13.115, 3178.3, 1150
+"Kepler-41 b", "Kepler-41", "Transit", 2011, "Kepler", 9.98, 174.8, 1730
+"WASP-65 b", "WASP-65", "Transit", 2013, "SuperWASP", 12.464, 492.62, 1480
+"K2-38 b", "K2-38", "Transit", 2016, "K2", 1.55, 12, 1184
+"HD 213885 b", "HD 213885", "Transit", 2019, "Transiting Exoplanet Survey Satellite (TESS)", 1.745, 8.83, 2128
+"TOI-150.01", "TOI-150", "Transit", 2019, "Transiting Exoplanet Survey Satellite (TESS)", 15.468, 556.202, 1493
+"Kepler-36 c", "Kepler-36", "Transit", 2012, "Kepler", 3.679, 8.08, 928
+"HD 1397 b", "HD 1397", "Transit", 2018, "Transiting Exoplanet Survey Satellite (TESS)", 11.5, 131.899, 1228
+"KELT-21 b", "KELT-21", "Transit", 2018, "KELT-North", 17.777, 1242.72, 2051
+"HAT-P-44 b", "HAT-P-44", "Transit", 2014, "HATNet", 13.922, 111.871, 1108
+"CoRoT-8 b", "CoRoT-8", "Transit", 2010, "CoRoT", 7.981, 68.6513, 922
+"NGTS-13 b", "NGTS-13", "Transit", 2021, "Paranal Observatory", 12.801, 1538.3, 1605
+"HAT-P-69 b", "HAT-P-69", "Transit", 2019, "HATNet", 18.786, 1137.83, 1930
+"TOI-1478 b", "TOI-1478", "Transit", 2021, "Transiting Exoplanet Survey Satellite (TESS)", 11.882, 270.473, 918
+"WASP-19 b", "WASP-19", "Transit", 2009, "SuperWASP", 15.603, 339.76, 2520
+"NGTS-11 b", "NGTS-11", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 9.158, 109.334, 435
+"TOI-564 b", "TOI-564", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 11.433, 464.985, 1714
+"WASP-98 b", "WASP-98", "Transit", 2014, "SuperWASP", 12.33, 263.79, 1180
+"Kepler-51 c", "Kepler-51", "Transit", 2012, "Kepler", 9, 4, 439
+"WASP-59 b", "WASP-59", "Transit", 2012, "SuperWASP", 8.687, 274.276, 670
+"WASP-106 b", "WASP-106", "Transit", 2014, "SuperWASP", 12.162, 611.797, 1140
+"CoRoT-10 b", "CoRoT-10", "Transit", 2010, "CoRoT", 10.548, 883.567, 647
+"TOI-132 b", "TOI-132", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 3.42, 22.4, 1395
+"HAT-P-2 b", "HAT-P-2", "Transit", 2007, "HATNet", 13.339, 2777.83, 1516
+"K2-33 b", "K2-33", "Transit", 2016, "K2", 5.76, 1144.19, 850
+"WASP-2 b", "WASP-2", "Transit", 2007, "SuperWASP", 11.915, 279.69, 1286
+"Kepler-46 b", "Kepler-46", "Transit", 2012, "Kepler", 9.057, 1907, 543
+"TOI-763 c", "TOI-763", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 2.63, 9.32, 800
+"WASP-130 b", "WASP-130", "Transit", 2016, "SuperWASP-South", 9.976, 390.931, 833
+"Kepler-10 b", "Kepler-10", "Transit", 2011, "Kepler", 1.416, 4.56, 1833
+"Kepler-93 b", "Kepler-93", "Transit", 2014, "Kepler", 1.478, 4.02, 1037
+"Qatar-9 b", "Qatar-9", "Transit", 2019, "Qatar", 11.31, 378.218, 1134
+"HAT-P-4 b", "HAT-P-4", "Transit", 2007, "HATNet", 14.986, 216.124, 1691
+"WASP-105 b", "WASP-105", "Transit", 2017, "SuperWASP-South", 10.761, 572.094, 900
+"HATS-57 b", "HATS-57", "Transit", 2019, "HATSouth", 12.767, 1000.21, 1413
+"GJ 143 b", "GJ 143", "Transit", 2019, "Transiting Exoplanet Survey Satellite (TESS)", 2.61, 22.7, 422
+"WASP-159 b", "WASP-159", "Transit", 2018, "SuperWASP-South", 15.468, 174.806, 1850
+"K2-132 b", "K2-132", "Transit", 2017, "K2", 12.207, 157.326, 1586
+"K2-32 d", "K2-32", "Transit", 2016, "K2", 3.484, 6.7, 550
+"55 Cnc e", "55 Cnc", "Radial Velocity", 2004, "McDonald Observatory", 2.08, 7.81, 1958
+"HATS-37 A b", "HATS-37 A", "Transit", 2020, "HATSouth", 6.793, 31.4652, 1085
+"HATS-4 b", "HATS-4", "Transit", 2014, "HATSouth", 11.433, 420.471, 1315
+"HATS-5 b", "HATS-5", "Transit", 2014, "HATSouth", 10.223, 75.323, 1025
+"HAT-P-12 b", "HAT-P-12", "Transit", 2009, "HATNet", 10.301, 63.8838, 955
+"WASP-104 b", "WASP-104", "Transit", 2014, "SuperWASP", 12.745, 404.263, 1516
+"WASP-5 b", "WASP-5", "Transit", 2008, "SuperWASP", 12.218, 502.15, 1753
+"Qatar-1 b", "Qatar-1", "Transit", 2010, "Qatar", 12.812, 411.272, 1418
+"WASP-71 b", "WASP-71", "Transit", 2012, "SuperWASP", 16.37, 712.545, 2049
+"HAT-P-46 b", "HAT-P-46", "Transit", 2014, "HATNet", 14.392, 156.684, 1458
+"HD 209458 b", "HD 209458", "Radial Velocity", 1999, "W. M. Keck Observatory", 15.233, 217.704, 1449
+"CoRoT-27 b", "CoRoT-27", "Transit", 2014, "CoRoT", 11.287, 3302.11, 1500
+"WASP-7 b", "WASP-7", "Transit", 2008, "SuperWASP", 10.256, 305.117, 1379
+"LHS 1140 c", "LHS 1140", "Transit", 2018, "Multiple Observatories", 1.169, 1.76, 709
+"HATS-41 b", "HATS-41", "Transit", 2018, "HATSouth", 14.908, 3082.95, 1710
+"EPIC 220674823 b", "EPIC 220674823", "Transit", 2016, "K2", 1.52, 8.36, 2333
+"WASP-170 b", "WASP-170", "Transit", 2018, "SuperWASP-South", 12.285, 508.528, 1422
+"HAT-P-3 b", "HAT-P-3", "Transit", 2007, "HATNet", 10.077, 189.427, 1127
+"LV426", "Zeta Reticuli", "Deep space probe", 2039, "Weyland-Yutani Corporation", 0.772, 0.41, 288
+"WTS-1 b", "WTS-1", "Transit", 2012, "United Kingdom Infrared Telescope", 16.7, 1274.44, 1500
+"HATS-11 b", "HATS-11", "Transit", 2016, "HATSouth", 16.926, 270.156, 1637
+"KELT-10 b", "KELT-10", "Transit", 2016, "KELT-South", 15.681, 215.807, 1377
+"TOI-824 b", "TOI-824", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 2.926, 18.467, 1253
+"Kepler-107 c", "Kepler-107", "Transit", 2014, "Kepler", 1.597, 9.39, 1379
+"K2-22 b", "K2-22", "Transit", 2015, "K2", 2.5, 444.962, 2100
+"TOI-561 c", "TOI-561", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 2.9, 7, 860
+"TOI-421 b", "TOI-421", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 2.68, 7.17, 981
+"HAT-P-26 b", "HAT-P-26", "Transit", 2010, "HATNet", 6.333, 18.751, 1001
+"Kepler-435 b", "Kepler-435", "Transit", 2015, "Kepler", 22.31, 266.97, 1729
+"TOI-1601 b", "TOI-1601", "Transit", 2021, "Transiting Exoplanet Survey Satellite (TESS)", 13.888, 314.652, 1619
+"Kepler-17 b", "Kepler-17", "Transit", 2011, "Kepler", 14.68, 778.65, 1570
+"HATS-25 b", "HATS-25", "Transit", 2016, "HATSouth", 14.123, 194.83, 1277
+"KOI-1257 b", "KOI-1257", "Transit", 2014, "Kepler", 10.54, 460.83, 511
+"GJ 414 A c", "GJ 414 A", "Radial Velocity", 2021, "W. M. Keck Observatory", 8.4, 53.83, 125
+"HATS-68 b", "HATS-68", "Transit", 2018, "HATSouth", 13.809, 410.001, 1741
+"WASP-57 b", "WASP-57", "Transit", 2012, "SuperWASP", 10.267, 213.573, 1251
+"HD 80606 b", "HD 80606", "Radial Velocity", 2001, "Multiple Observatories", 11.243, 1307.55, 405
+"HD 106315 b", "HD 106315", "Transit", 2017, "K2", 2.44, 12.6, 1153
+"HATS-36 b", "HATS-36", "Transit", 2018, "HATSouth", 13.843, 1022.14, 1356
+"HATS-28 b", "HATS-28", "Transit", 2016, "HATSouth", 13.384, 213.582, 1253
+"WASP-28 b", "WASP-28", "Transit", 2014, "SuperWASP", 13.597, 288.26, 1468
+"HATS-3 b", "HATS-3", "Transit", 2013, "HATSouth", 15.48, 340.382, 1648
+"WASP-34 b", "WASP-34", "Transit", 2010, "SuperWASP", 13.675, 187.51, 1250
+"WASP-95 b", "WASP-95", "Transit", 2014, "SuperWASP", 13.56, 359.13, 1570
+"HATS-6 b", "HATS-6", "Transit", 2015, "HATSouth", 11.187, 101.388, 713
+"WASP-13 b", "WASP-13", "Transit", 2009, "SuperWASP", 17.127, 162.729, 1531
+"KELT-12 b", "KELT-12", "Transit", 2017, "KELT-North", 19.952, 301.938, 1800
+"HAT-P-7 b", "HAT-P-7", "Transit", 2008, "HATNet", 16.421, 571.776, 2194
+"WASP-79 b", "WASP-79", "Transit", 2012, "SuperWASP", 23.43, 286.03, 1900
+"LTT 3780 b", "LTT 3780", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 1.332, 2.62, 892
+"WASP-123 b", "WASP-123", "Transit", 2016, "SuperWASP", 14.773, 285.729, 1520
+"HAT-P-9 b", "HAT-P-9", "Transit", 2008, "HATNet", 15.468, 247.272, 1540
+"WASP-157 b", "WASP-157", "Transit", 2016, "SuperWASP", 11.938, 182.434, 1339
+"CoRoT-20 b", "CoRoT-20", "Transit", 2011, "CoRoT", 9.42, 1347.54, 1002
+"Kepler-411 c", "Kepler-411", "Transit", 2016, "Kepler", 4.421, 26.4, 838
+"K2-29 b", "K2-29", "Transit", 2016, "K2", 11.209, 194.83, 1076
+"Qatar-6 b", "Qatar-6", "Transit", 2017, "Qatar", 11.904, 212.31, 1006
+"K2-229 b", "K2-229", "Transit", 2018, "K2", 1.164, 2.59, 1960
+"WASP-142 b", "WASP-142", "Transit", 2016, "SuperWASP-South", 17.15, 266.977, 2000
+"K2-266 b", "K2-266", "Transit", 2018, "K2", 3.3, 11.2678, 1515
+"HATS-13 b", "HATS-13", "Transit", 2015, "HATSouth", 13.585, 172.582, 1244
+"L 168-9 b", "L 168-9", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 1.39, 4.6, 965
+"WASP-138 b", "WASP-138", "Transit", 2016, "SuperWASP", 12.218, 387.753, 1590
+"Kepler-51 b", "Kepler-51", "Transit", 2012, "Kepler", 7.1, 2.1, 543
+"HAT-P-43 b", "HAT-P-43", "Transit", 2012, "HATNet", 14.359, 210.395, 1361
+"TOI-178 e", "TOI-178", "Transit", 2021, "Transiting Exoplanet Survey Satellite (TESS)", 2.207, 3.86, 600
+"WASP-43 b", "WASP-43", "Transit", 2011, "SuperWASP", 11.276, 635.024, 1427
+"Kepler-87 b", "Kepler-87", "Transit", 2013, "Kepler", 13.49, 324.2, 478
+"K2-285 d", "K2-285", "Transit", 2018, "K2", 2.48, 6.5, 620
+"Kepler-5 b", "Kepler-5", "Transit", 2009, "Kepler", 15.984, 670.939, 1750
+"HD 183579 b", "HD 183579", "Transit", 2021, "Transiting Exoplanet Survey Satellite (TESS)", 3.55, 19.7, 769
+"WASP-126 b", "WASP-126", "Transit", 2016, "SuperWASP-South", 10.761, 88.9924, 1480
+"HAT-P-36 b", "HAT-P-36", "Transit", 2011, "HATNet", 14.314, 587.413, 1781
+"Kepler-44 b", "Kepler-44", "Transit", 2011, "Kepler", 12.22, 317.82, 1544
+"HATS-18 b", "HATS-18", "Transit", 2016, "Multiple Observatories", 14.897, 629.144, 2069
+"L 98-59 d", "L 98-59", "Transit", 2019, "Transiting Exoplanet Survey Satellite (TESS)", 1.57, 2.31, 409
+"HAT-P-11 b", "HAT-P-11", "Transit", 2008, "HATNet", 4.73, 25.743, 878
+"HD 136352 c", "HD 136352", "Radial Velocity", 2019, "La Silla Observatory", 2.608, 11.29, 682
+"HAT-P-36 b", "HAT-P-36", "Transit", 2011, "HATNet", 15.211, 611.823, 1820
+"TrES-3 b", "TrES-3", "Transit", 2007, "TrES", 14.628, 607.055, 1630
+"TRAPPIST-1 b", "TRAPPIST-1", "Transit", 2016, "La Silla Observatory", 1.086, 0.85, 400
+"WASP-58 b", "WASP-58", "Transit", 2012, "SuperWASP", 15.36, 282.86, 1270
+"Kepler-7 b", "Kepler-7", "Transit", 2009, "Kepler", 16.567, 137.615, 1540
+"WASP-74 b", "WASP-74", "Transit", 2015, "SuperWASP", 15.737, 262.528, 1926
+"HATS-43 b", "HATS-43", "Transit", 2018, "HATSouth", 13.227, 82.9536, 1003
+"HATS-27 b", "HATS-27", "Transit", 2016, "HATSouth", 16.814, 168.45, 1659
+"HD 5278 b", "HD 5278", "Transit", 2021, "Transiting Exoplanet Survey Satellite (TESS)", 2.45, 7.8, 943
+"WASP-12 b", "WASP-12", "Transit", 2008, "SuperWASP", 21.297, 467.21, 2580
+"LHS 1140 b", "LHS 1140", "Transit", 2017, "MEarth Project", 1.727, 6.98, 235
+"WASP-75 b", "WASP-75", "Transit", 2013, "SuperWASP", 14.235, 340.06, 1710
+"K2-24 c", "K2-24", "Transit", 2016, "K2", 7.82, 27, 606
+"K2-98 b", "K2-98", "Transit", 2016, "K2", 4.3, 32.2, 1102
+"HATS-45 b", "HATS-45", "Transit", 2018, "HATSouth", 14.415, 222.481, 1518
+"HATS-35 b", "HATS-35", "Transit", 2016, "HATSouth", 16.41, 388.388, 2037
+"K2-238 b", "K2-238", "Transit", 2018, "K2", 14.572, 273.334, 1587
+"HAT-P-24 b", "HAT-P-24", "Transit", 2010, "HATNet", 13.922, 217.704, 1637
+"TOI-421 c", "TOI-421", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 5.09, 16.42, 674
+"TOI-776 b", "TOI-776", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 1.85, 4, 514
+"bet Pic b", "bet Pic", "Imaging", 2008, "Paranal Observatory", 16.8, 6356, 1650
+"WASP-45 b", "WASP-45", "Transit", 2011, "SuperWASP", 11.119, 318.466, 1170
+"NGTS-1 b", "NGTS-1", "Transit", 2017, "Paranal Observatory", 14.908, 258.078, 790
+"HAT-P-34 b", "HAT-P-34", "Transit", 2011, "HATNet", 13.417, 1057.69, 1520
+"CoRoT-14 b", "CoRoT-14", "Transit", 2010, "CoRoT", 12.22, 2415.4, 1952
+"K2-30 b", "K2-30", "Transit", 2016, "K2", 11.646, 184.024, 1092
+"WASP-172 b", "WASP-172", "Transit", 2018, "SuperWASP-South", 17.598, 149.38, 1740
+"WASP-175 b", "WASP-175", "Transit", 2019, "WASP-South", 13.54, 314.652, 1571
+"K2-285 b", "K2-285", "Transit", 2018, "K2", 2.59, 9.68, 1089
+"Kepler-539 b", "Kepler-539", "Transit", 2016, "Kepler", 8.373, 308.295, 388
+"TrES-4 b", "TrES-4", "Transit", 2007, "TrES", 19.123, 291.45, 1778
+"K2-237 b", "K2-237", "Transit", 2018, "K2", 18.405, 392.838, 1838
+"HAT-P-51 b", "HAT-P-51", "Transit", 2015, "HATNet", 14.493, 98.2095, 1192
+"EPIC 249893012 c", "EPIC 249893012", "Transit", 2020, "K2", 3.67, 14.67, 990
+"WASP-167 b", "WASP-167", "Transit", 2017, "Multiple Observatories", 17.71, 2542.64, 2329
+"WASP-70 A b", "WASP-70 A", "Transit", 2014, "SuperWASP", 13.047, 187.512, 1387
+"WASP-43 b", "WASP-43", "Transit", 2011, "SuperWASP", 10.42, 572.1, 1350
+"KOI-94 e", "KOI-94", "Transit", 2013, "Kepler", 6.56, 35, 584
+"WASP-131 b", "WASP-131", "Transit", 2016, "SuperWASP-South", 13.675, 85.8141, 1460
+"KOI-94 c", "KOI-94", "Transit", 2013, "Kepler", 4.32, 15.6, 1012
+"Kepler-44 b", "Kepler-44", "Transit", 2011, "Kepler", 13.9, 324.17, 1603
+"HATS-58 A b", "HATS-58 A", "Transit", 2019, "HATSouth", 12.274, 327.365, 1721
+"HD 136352 b", "HD 136352", "Radial Velocity", 2019, "La Silla Observatory", 1.482, 4.62, 911
+"WASP-132 b", "WASP-132", "Transit", 2016, "SuperWASP-South", 9.752, 130.31, 763
+"TOI-519 b", "TOI-519", "Transit", 2021, "Transiting Exoplanet Survey Satellite (TESS)", 11.994, 4449.62, 760
+"HD 15337 b", "HD 15337", "Transit", 2019, "Transiting Exoplanet Survey Satellite (TESS)", 1.64, 7.51, 1001
+"EPIC 220674823 c", "EPIC 220674823", "Transit", 2016, "K2", 2.5, 5.8, 774
+"HAT-P-8 b", "HAT-P-8", "Transit", 2008, "HATNet", 16.81, 483.08, 1700
+"XO-4 b", "XO-4", "Transit", 2008, "XO", 14.46, 483.419, 1630
+"Kepler-43 b", "Kepler-43", "Transit", 2011, "Kepler", 13, 994.77, 1628
+"TOI-125 c", "TOI-125", "Transit", 2019, "Transiting Exoplanet Survey Satellite (TESS)", 2.759, 6.63, 828
+"HATS-64 b", "HATS-64", "Transit", 2018, "HATSouth", 18.82, 305.117, 1793
+"TOI-640 b", "TOI-640", "Transit", 2021, "Transiting Exoplanet Survey Satellite (TESS)", 19.851, 279.69, 1749
+"TOI-561 b", "TOI-561", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 1.45, 3.2, 2480
+"CFHTWIR-Oph 98 b", "CFHTWIR-Oph 98 A", "Imaging", 2021, "Hubble Space Telescope", 20.849, 2479.06, 1800
+"OGLE-TR-111 b", "OGLE-TR-111", "Transit", 2004, "OGLE", 12.072, 171.628, 1034
+"CoRoT-5 b", "CoRoT-5", "Transit", 2009, "CoRoT", 14.079, 145.884, 1397
+"GJ 1252 b", "GJ 1252", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 1.193, 2.09, 1089
+"WASP-98 b", "WASP-98", "Transit", 2014, "SuperWASP", 12.823, 293.039, 1171
+"HATS-61 b", "HATS-61", "Transit", 2018, "HATSouth", 13.395, 1080.62, 1226
+"HATS-55 b", "HATS-55", "Transit", 2019, "HATSouth", 14.022, 292.721, 1367
+"HAT-P-30 b", "HAT-P-30", "Transit", 2011, "HATNet", 15.02, 225.968, 1630
+"Qatar-2 b", "Qatar-2", "Transit", 2011, "Qatar", 14.056, 792.635, 1344
+"WASP-169 b", "WASP-169", "Transit", 2019, "WASP-South", 14.617, 178.303, 1604
+"HAT-P-52 b", "HAT-P-52", "Transit", 2015, "HATNet", 11.31, 259.985, 1218
+"K2-329 b", "K2-329", "Transit", 2020, "K2", 8.676, 82.6358, 650
+"HD 106315 c", "HD 106315", "Transit", 2017, "K2", 4.35, 15.2, 886
+"HAT-P-41 b", "HAT-P-41", "Transit", 2012, "HATNet", 18.887, 254.253, 1941
+"TOI-1333 b", "TOI-1333", "Transit", 2021, "Transiting Exoplanet Survey Satellite (TESS)", 15.648, 753.257, 1679
+"CoRoT-6 b", "CoRoT-6", "Transit", 2009, "CoRoT", 13.068, 940.74, 1017
+"WASP-99 b", "WASP-99", "Transit", 2014, "SuperWASP", 12.33, 883.53, 1480
+"Kepler-51 d", "Kepler-51", "Transit", 2014, "Kepler", 9.7, 7.6, 381
+"Kepler-7 b", "Kepler-7", "Transit", 2009, "Kepler", 18.484, 143.977, 1619
+"WASP-10 b", "WASP-10", "Transit", 2008, "SuperWASP", 11.96, 1004.34, 972
+"Kepler-40 b", "Kepler-40", "Transit", 2010, "Kepler", 16.141, 686.513, 1744
+"WASP-145 A b", "WASP-145 A", "Transit", 2018, "SuperWASP-South", 10.088, 282.869, 1200
+"TrES-4 b", "TrES-4", "Transit", 2007, "TrES", 19.448, 285.094, 1805
+"WASP-5 b", "WASP-5", "Transit", 2008, "SuperWASP", 13.047, 497.404, 1732
+"Kepler-40 b", "Kepler-40", "Transit", 2010, "Kepler", 13.11, 699.2, 1620
+"HAT-P-29 b", "HAT-P-29", "Transit", 2011, "HATNet", 11.926, 243.776, 1271
+"TRAPPIST-1 e", "TRAPPIST-1", "Transit", 2017, "Multiple Observatories", 0.918, 0.62, 251
+"Kepler-117 c", "Kepler-117", "Transit", 2014, "Kepler", 12.341, 584.78, 704
+"TrES-2 b", "TrES-2", "Transit", 2006, "TrES", 13.978, 380.443, 1470
+"WASP-147 b", "WASP-147", "Transit", 2018, "SuperWASP-South", 12.498, 87.4032, 1404
+"HD 209458 b", "HD 209458", "Radial Velocity", 1999, "W. M. Keck Observatory", 15.7, 219.29, 1450
+"HATS-8 b", "HATS-8", "Transit", 2015, "HATSouth", 9.785, 43.8605, 1324
+"Kepler-43 b", "Kepler-43", "Transit", 2011, "Kepler", 12.498, 982.095, 1603
+"WASP-50 b", "WASP-50", "Transit", 2011, "SuperWASP", 13.07, 466.829, 1395
+"Kepler-10 b", "Kepler-10", "Transit", 2011, "Kepler", 1.481, 4.60853, 2130
+"PDS 70 c", "PDS 70", "Imaging", 2019, "European Southern Observatory", 22.866, 635.66, 995
+"WASP-153 b", "WASP-153", "Transit", 2017, "SuperWASP", 17.374, 123.954, 1700
+"PDS 70 b", "PDS 70", "Imaging", 2018, "Paranal Observatory", 14.572, 2542.64, 1200
+"HAT-P-13 b", "HAT-P-13", "Transit", 2009, "HATNet", 16.668, 287.954, 1740
+"Qatar-4 b", "Qatar-4", "Transit", 2017, "Qatar", 12.722, 1938.76, 1385
+"Kepler-20 b", "Kepler-20", "Transit", 2011, "Kepler", 1.868, 9.7, 1105
+"WASP-94 A b", "WASP-94 A", "Transit", 2014, "SuperWASP", 19.28, 143.653, 1604
+"WASP-2 b", "WASP-2", "Transit", 2007, "SuperWASP", 11.691, 269.202, 1281
+"HD 17156 b", "HD 17156", "Radial Velocity", 2007, "Subaru Telescope", 11.938, 1036.76, 883
+"HAT-P-54 b", "HAT-P-54", "Transit", 2015, "HATNet", 10.581, 241.551, 818
+"CoRoT-18 b", "CoRoT-18", "Transit", 2011, "CoRoT", 14.022, 1039.3, 1490
+"HD 219134 b", "HD 219134", "Radial Velocity", 2015, "Roque de los Muchachos Observatory", 1.602, 4.74, 1015
+"HAT-P-18 b", "HAT-P-18", "Transit", 2010, "HATNet", 10.615, 62.2947, 841
+"Kepler-8 b", "Kepler-8", "Transit", 2010, "Kepler", 15.48, 187.52, 1662
+"WASP-72 b", "WASP-72", "Transit", 2012, "SuperWASP", 14.24, 491.376, 2210
+"WASP-22 b", "WASP-22", "Transit", 2010, "SuperWASP", 12.554, 177.985, 1430
+"HAT-P-18 b", "HAT-P-18", "Transit", 2010, "HATNet", 11.153, 62.61, 852
+"Kepler-62 f", "Kepler-62", "Transit", 2013, "Kepler", 1.41, 35, 208
+"WASP-96 b", "WASP-96", "Transit", 2014, "SuperWASP", 13.45, 152.55, 1285
+"WASP-120 b", "WASP-120", "Transit", 2016, "SuperWASP", 16.511, 1541.48, 1880
+"OGLE2-TR-L9 b", "OGLE2-TR-L9", "Transit", 2008, "OGLE", 18.091, 1379.38, 2039
+"WISEP J121756.91+162640.2 A b", "WISEP J121756.91+162640.2 A", "Imaging", 2012, "W. M. Keck Observatory", 10.468, 6992, 450
+"MASCARA-1 b", "MASCARA-1", "Transit", 2017, "Multiple Observatories", 16.814, 1175.97, 2570
+"WASP-14 b", "WASP-14", "Transit", 2008, "SuperWASP", 13.899, 2412.33, 1872
+"HAT-P-25 b", "HAT-P-25", "Transit", 2010, "HATNet", 13.339, 180.202, 1202
+"WASP-178 b", "WASP-178", "Transit", 2019, "WASP-South", 20.288, 527.598, 2470
+"HD 149026 b", "HD 149026", "Radial Velocity", 2005, "Subaru Telescope", 6.837, 113.147, 1626
+"K2-263 b", "K2-263", "Transit", 2018, "K2", 2.41, 14.8, 470
+"WASP-113 b", "WASP-113", "Transit", 2016, "SuperWASP-North", 15.793, 150.969, 1496
+"Kepler-45 b", "Kepler-45", "Transit", 2011, "Kepler", 10.76, 160.497, 1000
+"WASP-2 b", "WASP-2", "Transit", 2007, "SuperWASP", 12.117, 295.9, 1311
+"CoRoT-10 b", "CoRoT-10", "Transit", 2010, "CoRoT", 10.87, 874, 600
+"WASP-173 A b", "WASP-173 A", "Transit", 2018, "SuperWASP-South", 13.451, 1172.79, 1880
+"WASP-15 b", "WASP-15", "Transit", 2009, "SuperWASP", 15.782, 188.155, 1676
+"WASP-38 b", "WASP-38", "Transit", 2010, "SuperWASP", 12.3, 858.1, 1250
+"GQ Lup b", "GQ Lup", "Imaging", 2004, "Paranal Observatory", 33.6, 6356, 2650
+"GJ 3470 b", "GJ 3470", "Radial Velocity", 2012, "La Silla Observatory", 4.2, 14, 615
+"TrES-2 b", "TrES-2", "Transit", 2006, "TrES", 13.955, 457.675, 1472
+"CoRoT-5 b", "CoRoT-5", "Transit", 2009, "CoRoT", 13.249, 149.38, 1348
+"EPIC 249893012 b", "EPIC 249893012", "Transit", 2020, "K2", 1.95, 8.75, 1616
+"TOI-216.02", "TOI-216", "Transit", 2019, "Transiting Exoplanet Survey Satellite (TESS)", 7.69, 30, 628
+"Kepler-12 b", "Kepler-12", "Transit", 2011, "Kepler", 19.123, 136.667, 1485
+"Kepler-41 b", "Kepler-41", "Transit", 2011, "Kepler", 11.657, 177.985, 1770
+"WASP-136 b", "WASP-136", "Transit", 2016, "SuperWASP", 15.468, 479.923, 1742
+"CoRoT-7 b", "CoRoT-7", "Transit", 2009, "CoRoT", 1.585, 5.74, 1756
+"WASP-180 A b", "WASP-180 A", "Transit", 2019, "SuperWASP", 13.899, 286.047, 1540
+"Kepler-20 d", "Kepler-20", "Transit", 2011, "Kepler", 2.75, 20.1, 369
+"WASP-160 B b", "WASP-160 B", "Transit", 2018, "SuperWASP-South", 12.218, 88.3567, 1119
+"HR 2562 b", "HR 2562", "Imaging", 2016, "Gemini Observatory", 12.442, 9534.9, 1200
+"Kepler-6 b", "Kepler-6", "Transit", 2009, "Kepler", 13.103, 201.186, 1451
+"WASP-90 b", "WASP-90", "Transit", 2016, "SuperWASP", 18.271, 200.233, 1840
+"HATS-24 b", "HATS-24", "Transit", 2017, "HATSouth", 15.637, 718.296, 2166
+"Qatar-2 b", "Qatar-2", "Transit", 2011, "Qatar", 12.498, 783.769, 1285
+"CoRoT-1 b", "CoRoT-1", "Transit", 2008, "CoRoT", 15.917, 340.078, 1834
+"GJ 357 b", "GJ 357", "Transit", 2019, "Transiting Exoplanet Survey Satellite (TESS)", 1.217, 1.84, 525
+"WASP-57 b", "WASP-57", "Transit", 2012, "SuperWASP", 11.769, 204.683, 1338
+"K2-30 b", "K2-30", "Transit", 2016, "K2", 11.982, 187.202, 1203
+"WASP-18 b", "WASP-18", "Transit", 2009, "SuperWASP", 14.6, 3241.7, 2400
+"WASP-80 b", "WASP-80", "Transit", 2012, "SuperWASP", 11.198, 170.993, 825
+"TOI-150.01", "TOI-150", "Transit", 2019, "Transiting Exoplanet Survey Satellite (TESS)", 14.067, 797.753, 1404
+"K2-232 b", "K2-232", "Transit", 2018, "K2", 11.859, 123, 1001
+"KOI-94 d", "KOI-94", "Transit", 2013, "Kepler", 11.27, 106, 806
+"CoRoTID 223977153 b", "CoRoTID 223977153", "Transit", 2017, "CoRoT", 6.389, 47.6745, 938
+"EPIC 246851721 b", "EPIC 246851721", "Transit", 2018, "K2", 11.781, 953.49, 1401
+"HATS-10 b", "HATS-10", "Transit", 2015, "HATSouth", 10.862, 167.179, 1407
+"HATS-16 b", "HATS-16", "Transit", 2016, "HATSouth", 14.572, 1039.3, 1592
+"HATS-40 b", "HATS-40", "Transit", 2018, "HATSouth", 17.71, 505.35, 2101
+"Kepler-43 b", "Kepler-43", "Transit", 2011, "Kepler", 13.664, 1026.59, 1620
+"HAT-P-55 b", "HAT-P-55", "Transit", 2015, "HATNet", 13.249, 184.977, 1313
+"TRAPPIST-1 c", "TRAPPIST-1", "Transit", 2016, "La Silla Observatory", 1.056, 1.38, 342
+"WASP-78 b", "WASP-78", "Transit", 2012, "SuperWASP", 23.091, 273.334, 2470
+"GJ 436 b", "GJ 436", "Radial Velocity", 2004, "W. M. Keck Observatory", 4.091, 23.4241, 669
+"TrES-1 b", "TrES-1", "Transit", 2004, "TrES", 11.96, 238.998, 1140
+"HATS-53 b", "HATS-53", "Transit", 2017, "HATSouth", 15.02, 189.109, 1312
+"Kepler-21 b", "Kepler-21", "Transit", 2012, "Kepler", 1.639, 5.08, 2025
+"K2-29 b", "K2-29", "Transit", 2016, "K2", 13.339, 232.016, 1171
+"WASP-36 b", "WASP-36", "Transit", 2011, "SuperWASP", 14.359, 726.559, 1724
+"K2-115 b", "K2-115", "Transit", 2017, "K2", 12.498, 266.977, 682
+"XO-1 b", "XO-1", "Transit", 2006, "XO", 13.518, 293.675, 1210
+"WASP-2 b", "WASP-2", "Transit", 2007, "SuperWASP", 12.005, 290.802, 1304
+"Kepler-7 b", "Kepler-7", "Transit", 2009, "Kepler", 17.957, 135.078, 1621
+"KELT-3 b", "KELT-3", "Transit", 2013, "KELT", 15.076, 469.415, 1816
+"HAT-P-29 b", "HAT-P-29", "Transit", 2011, "HATNet", 12.408, 247.261, 1260
+"K2-140 b", "K2-140", "Transit", 2017, "K2", 12.274, 323.869, 1114
+"HAT-P-7 b", "HAT-P-7", "Transit", 2008, "HATNet", 15.906, 566.055, 2200
+"CoRoT-11 b", "CoRoT-11", "Transit", 2010, "CoRoT", 15.581, 791.397, 1715
+"K2-32 b", "K2-32", "Transit", 2016, "K2", 5.299, 15, 837
+"HAT-P-40 b", "HAT-P-40", "Transit", 2012, "HATNet", 19.392, 195.457, 1770
+"HAT-P-1 b", "HAT-P-1", "Transit", 2006, "HATNet", 13.922, 169.086, 1306
+"WASP-14 b", "WASP-14", "Transit", 2008, "SuperWASP", 18.304, 2510.86, 2090
+"GJ 1132 b", "GJ 1132", "Transit", 2015, "Cerro Tololo Inter-American Observatory", 1.43, 1.63, 644
+"GJ 436 b", "GJ 436", "Radial Velocity", 2004, "W. M. Keck Observatory", 4.191, 23.138, 686
+"WASP-84 b", "WASP-84", "Transit", 2014, "SuperWASP", 10.94, 218.349, 833
+"WASP-5 b", "WASP-5", "Transit", 2008, "SuperWASP", 13.171, 506.939, 1753
+"WASP-55 b", "WASP-55", "Transit", 2012, "SuperWASP", 14.964, 199.279, 1300
+"OGLE-TR-132 b", "OGLE-TR-132", "Transit", 2004, "OGLE", 13.45, 375.02, 2013
+"HAT-P-56 b", "HAT-P-56", "Transit", 2015, "HATNet", 16.432, 692.869, 1840
+"HD 2685 b", "HD 2685", "Transit", 2019, "Transiting Exoplanet Survey Satellite (TESS)", 16.141, 371.861, 2061
+"WASP-91 b", "WASP-91", "Transit", 2017, "SuperWASP-South", 11.545, 425.892, 1160
+"HD 86226 c", "HD 86226", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 2.16, 7.25, 1311
+"HATS-71 b", "HATS-71", "Transit", 2020, "HATSouth", 11.478, 117.597, 587
+"HAT-P-36 b", "HAT-P-36", "Transit", 2011, "HATNet", 14.168, 582.24, 1823
+"HAT-P-20 b", "HAT-P-20", "Transit", 2010, "HATNet", 9.718, 2302.9, 970
+"TOI-125 b", "TOI-125", "Transit", 2019, "Transiting Exoplanet Survey Satellite (TESS)", 2.726, 9.5, 1037
+"TrES-3 b", "TrES-3", "Transit", 2007, "TrES", 14.684, 603.559, 1638
+"NGTS-6 b", "NGTS-6", "Transit", 2019, "Paranal Observatory", 14.863, 425.574, 1284
+"TOI-677 b", "TOI-677", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 13.115, 392.838, 1252
+"HAT-P-6 b", "HAT-P-6", "Transit", 2007, "HATNet", 15.637, 337.853, 1704
+"WASP-67 b", "WASP-67", "Transit", 2012, "SuperWASP", 12.229, 129.034, 1003
+"WASP-61 b", "WASP-61", "Transit", 2012, "SuperWASP", 13.563, 654.73, 1624
+"CoRoT-13 b", "CoRoT-13", "Transit", 2010, "CoRoT", 9.92, 415.704, 1700
+"WASP-7 b", "WASP-7", "Transit", 2008, "SuperWASP", 15.401, 311.473, 1530
+"KELT-20 b", "KELT-20", "Transit", 2017, "KELT-North", 20.512, 5403.11, 2260
+"GJ 9827 d", "GJ 9827", "Transit", 2017, "K2", 2.07, 5.2, 680
+"TOI-125 d", "TOI-125", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 2.93, 13.6, 638
+"HATS-34 b", "HATS-34", "Transit", 2016, "HATSouth", 16.029, 299.078, 1445
+"WASP-25 b", "WASP-25", "Transit", 2010, "SuperWASP", 13.978, 190.062, 1210
+"OGLE-TR-211 b", "OGLE-TR-211", "Transit", 2007, "OGLE", 14.146, 238.373, 1686
+"HAT-P-5 b", "HAT-P-5", "Transit", 2007, "HATNet", 14.056, 336.9, 1539
+"WASP-10 b", "WASP-10", "Transit", 2008, "SuperWASP", 12.3, 1017, 950
+"WASP-8 b", "WASP-8", "Transit", 2010, "SuperWASP", 11.2, 699.2, 950
+"HATS-22 b", "HATS-22", "Transit", 2017, "HATSouth", 10.682, 870.854, 858
+"K2-36 b", "K2-36", "Transit", 2016, "K2", 1.43, 3.9, 1224
+"GJ 436 b", "GJ 436", "Radial Velocity", 2004, "W. M. Keck Observatory", 4.26, 23.201, 650
+"GJ 1132 b", "GJ 1132", "Transit", 2015, "Cerro Tololo Inter-American Observatory", 1.13, 1.66, 529
+"HAT-P-57 b", "HAT-P-57", "Transit", 2015, "HATNet", 15.838, 587.986, 2200
+"GJ 414 A b", "GJ 414 A", "Radial Velocity", 2021, "W. M. Keck Observatory", 2.63, 7.6, 309
+"KELT-20 b", "KELT-20", "Transit", 2017, "KELT-North", 19.515, 1074.9, 2262
+"HD 95338 b", "HD 95338", "Radial Velocity", 2020, "Las Campanas Observatory", 3.89, 42.44, 385
+"WASP-1 b", "WASP-1", "Transit", 2007, "SuperWASP", 16.97, 291.768, 1811
+"HAT-P-6 b", "HAT-P-6", "Transit", 2007, "HATNet", 14.908, 336.582, 1675
+"HD 219666 b", "HD 219666", "Transit", 2018, "Transiting Exoplanet Survey Satellite (TESS)", 4.71, 16.6, 1073
+"WASP-44 b", "WASP-44", "Transit", 2011, "SuperWASP", 12.33, 276.512, 1337
+"K2-110 b", "K2-110", "Transit", 2017, "K2", 2.592, 16.7, 640
+"TrES-4 b", "TrES-4", "Transit", 2007, "TrES", 19.627, 292.404, 1785
+"TOI-1728 b", "TOI-1728", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 5.05, 26.78, 767
+"TOI-763 b", "TOI-763", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 2.28, 9.79, 1038
+"K2-292 b", "K2-292", "Transit", 2019, "K2", 2.63, 24.5, 795
+"Kepler-5 b", "Kepler-5", "Transit", 2009, "Kepler", 16.04, 671.864, 1868
+"Kepler-101 b", "Kepler-101", "Transit", 2014, "Kepler", 5.77, 51.1, 1513
+"TOI-172 b", "TOI-172", "Transit", 2019, "Transiting Exoplanet Survey Satellite (TESS)", 10.817, 1722.64, 1198
+"HAT-P-2 b", "HAT-P-2", "Transit", 2007, "HATNet", 12.3, 2828.6, 1700
+"LTT 1445 A b", "LTT 1445 A", "Transit", 2019, "Transiting Exoplanet Survey Satellite (TESS)", 1.38, 2.2, 433
+"HAT-P-16 b", "HAT-P-16", "Transit", 2010, "HATNet", 14.448, 1332.61, 1626
+"TrES-4 b", "TrES-4", "Transit", 2007, "TrES", 20.602, 157.008, 1795
+"K2-290 c", "K2-290", "Transit", 2019, "K2", 11.276, 246, 676
+"HD 219134 d", "HD 219134", "Radial Velocity", 2015, "Roque de los Muchachos Observatory", 1.61, 16.17, 410
+"HATS-52 b", "HATS-52", "Transit", 2017, "HATSouth", 15.491, 711.939, 1834
+"OGLE-TR-182 b", "OGLE-TR-182", "Transit", 2007, "OGLE", 16.477, 336.9, 1550
+"WASP-181 b", "WASP-181", "Transit", 2019, "SuperWASP", 13.271, 95.0312, 1186
+"HAT-P-25 b", "HAT-P-25", "Transit", 2010, "HATNet", 12.722, 180.845, 1182
+"WASP-156 b", "WASP-156", "Transit", 2017, "SuperWASP", 5.717, 40.6822, 970
+"HAT-P-50 b", "HAT-P-50", "Transit", 2015, "HATNet", 14.437, 429.07, 1862
+"HIP 116454 b", "HIP 116454", "Transit", 2014, "K2", 2.53, 11.82, 690
+"HAT-P-53 b", "HAT-P-53", "Transit", 2015, "HATNet", 14.773, 471.66, 1778
+"Kepler-20 c", "Kepler-20", "Transit", 2011, "Kepler", 3.047, 12.75, 772
+"XO-4 b", "XO-4", "Transit", 2008, "XO", 14.426, 491.683, 1630
+"WASP-144 b", "WASP-144", "Transit", 2018, "SuperWASP-South", 9.528, 139.845, 1260
+"Kepler-39 b", "Kepler-39", "Transit", 2011, "Kepler", 13.68, 5720.7, 905
+"TOI-1235 b", "TOI-1235", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 1.738, 6.91, 754
+"HAT-P-68 b", "HAT-P-68", "Transit", 2020, "HATNet", 12.016, 230.109, 1028
+"Kepler-39 b", "Kepler-39", "Transit", 2011, "Kepler", 13.9, 6388.1, 897
+"WASP-82 b", "WASP-82", "Transit", 2015, "SuperWASP", 18.719, 394.109, 2190
+"Kepler-423 b", "Kepler-423", "Transit", 2014, "Kepler", 13.361, 189.101, 1605
+"HAT-P-49 b", "HAT-P-49", "Transit", 2014, "HATNet", 15.838, 549.823, 2131
+"NGTS-14 A b", "NGTS-14 A", "Transit", 2021, "Paranal Observatory", 4.977, 29.2404, 1143
+"GJ 3470 b", "GJ 3470", "Radial Velocity", 2012, "La Silla Observatory", 4.57, 13.9, 594
+"WASP-88 b", "WASP-88", "Transit", 2014, "SuperWASP", 19.055, 177.98, 1772
+"WASP-18 b", "WASP-18", "Transit", 2009, "SuperWASP", 12.98, 3270.47, 2392
+"TrES-2 b", "TrES-2", "Transit", 2006, "TrES", 13.372, 383.303, 1466
+"HAT-P-67 b", "HAT-P-67", "Transit", 2017, "HATNet", 23.371, 108.062, 1903
+"Kepler-10 b", "Kepler-10", "Transit", 2011, "Kepler", 1.47, 3.33, 2169
+"HD 189733 b", "HD 189733", "Radial Velocity", 2005, "Haute-Provence Observatory", 12.3, 349.6, 1200
+"HAT-P-70 b", "HAT-P-70", "Transit", 2019, "HATNet", 20.961, 2154.89, 2562
+"TOI-157 b", "TOI-157", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 14.415, 375.039, 1588
+"HIP 65 A b", "HIP 65 A", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 22.754, 1021.19, 1411
+"pi Men c", "HD 39091", "Transit", 2018, "Transiting Exoplanet Survey Satellite (TESS)", 2.06, 4.52, 1147
+"K2-60 b", "K2-60", "Transit", 2016, "K2", 7.656, 135.396, 1400
+"HATS-38 b", "HATS-38", "Transit", 2020, "HATSouth", 6.882, 23.5194, 1294
+"WASP-185 b", "WASP-185", "Transit", 2019, "WASP-South", 14.011, 311.473, 1160
+"HD 219134 f", "HD 219134", "Radial Velocity", 2015, "Multiple Observatories", 1.31, 7.3, 523
+"GU Psc b", "GU Psc", "Imaging", 2014, "Gemini Observatory", 14.179, 3591.3, 1050
+"WASP-83 b", "WASP-83", "Transit", 2015, "SuperWASP", 11.657, 95.349, 1120
+"Kepler-428 b", "Kepler-428", "Transit", 2014, "Kepler", 12.11, 403.63, 1070
+"Kepler-101 c", "Kepler-101", "Transit", 2014, "Kepler", 1.25, 3.78, 1413
+"HATS-12 b", "HATS-12", "Transit", 2016, "HATSouth", 15.132, 756.435, 2097
+"WASP-69 b", "WASP-69", "Transit", 2014, "SuperWASP", 9.113, 82.632, 963
+"K2-66 b", "K2-66", "Transit", 2016, "K2", 2.49, 21.3, 1372
+"TOI-1235 b", "TOI-1235", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 1.694, 5.9, 775
+"TOI-628 b", "TOI-628", "Transit", 2021, "Transiting Exoplanet Survey Satellite (TESS)", 11.882, 2011.86, 1586
+"WASP-176 b", "WASP-176", "Transit", 2020, "SuperWASP-North", 16.87, 271.745, 1721
+"K2-32 d", "K2-32", "Transit", 2016, "K2", 3.43, 10.3, 537
+"HAT-P-20 b", "HAT-P-20", "Transit", 2010, "HATNet", 11.489, 2294.73, 964
+"Kepler-21 b", "Kepler-21", "Transit", 2012, "Kepler", 1.635, 10.4, 1956
+"XO-3 b", "XO-3", "Transit", 2007, "XO", 13.989, 3759.93, 1729
+"WASP-49 b", "WASP-49", "Transit", 2012, "SuperWASP", 13.428, 126.814, 1400
+"K2-285 e", "K2-285", "Transit", 2018, "K2", 1.95, 10.7, 501
+"WASP-124 b", "WASP-124", "Transit", 2016, "SuperWASP-South", 13.899, 190.698, 1400
+"HATS-59 b", "HATS-59", "Transit", 2018, "HATSouth", 12.621, 256.171, 1128
+"CoRoT-22 b", "CoRoT-22", "Transit", 2014, "CoRoT", 4.88, 12.2, 885
+"OGLE-TR-113 b", "OGLE-TR-113", "Transit", 2004, "OGLE", 12.453, 394.109, 1355
+"LTT 9779 b", "LTT 9779", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 4.72, 29.32, 1978
+"WASP-171 b", "WASP-171", "Transit", 2019, "WASP-South", 10.985, 344.528, 1642
+"Kepler-20 d", "Kepler-20", "Transit", 2011, "Kepler", 2.744, 10.07, 401
+"WASP-33 b", "WASP-33", "Transit", 2010, "SuperWASP", 17.856, 665.218, 2782
+"Kepler-538 b", "Kepler-538", "Transit", 2016, "Kepler", 2.215, 10.6, 380
+"KELT-8 b", "KELT-8", "Transit", 2015, "KELT", 20.849, 275.559, 1675
+"HAT-P-1 b", "HAT-P-1", "Transit", 2006, "HATNet", 14.785, 168.132, 1322
+"K2-216 b", "K2-216", "Transit", 2018, "K2", 1.75, 8, 1103
+"HD 15337 c", "HD 15337", "Transit", 2019, "Transiting Exoplanet Survey Satellite (TESS)", 2.522, 8.79, 656
+"HATS-33 b", "HATS-33", "Transit", 2016, "HATSouth", 13.787, 378.853, 1429
+"WASP-62 b", "WASP-62", "Transit", 2012, "SuperWASP", 15.02, 184.341, 1475
+"WASP-82 b", "WASP-82", "Transit", 2015, "SuperWASP", 19.17, 397.27, 2200
+"Kepler-74 b", "Kepler-74", "Transit", 2013, "Kepler", 10.76, 200.22, 1078
+"Kepler-411 b", "Kepler-411", "Transit", 2013, "Kepler", 2.401, 25.6, 1138
+"HAT-P-66 b", "HAT-P-66", "Transit", 2016, "HATNet", 17.822, 248.861, 1896
+"GJ 3470 b", "GJ 3470", "Radial Velocity", 2012, "La Silla Observatory", 3.88, 13.73, 604
+"K2-237 b", "K2-237", "Transit", 2018, "K2", 18.495, 508.528, 1884
+"TOI-1899 b", "TOI-1899", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 12.89, 209.768, 362
+"TOI-178 f", "TOI-178", "Transit", 2021, "Multiple Observatories", 2.287, 7.72, 521
+"Kepler-39 b", "Kepler-39", "Transit", 2011, "Kepler", 12.24, 5689.16, 851
+"HATS-32 b", "HATS-32", "Transit", 2016, "HATSouth", 14, 292.404, 1437
+"K2-39 b", "K2-39", "Transit", 2016, "K2", 5.71, 39.8, 1670
+"Kepler-75 b", "Kepler-75", "Transit", 2013, "Kepler", 11.55, 3146.4, 850
+"TOI-1266 b", "TOI-1266", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 2.37, 13.5, 413
+"WASP-7 b", "WASP-7", "Transit", 2008, "SuperWASP", 15.278, 305.117, 1502
+"WASP-184 b", "WASP-184", "Transit", 2019, "WASP-South", 14.908, 181.163, 1480
+"HATS-69 b", "HATS-69", "Transit", 2018, "HATSouth", 10.593, 183.388, 1296
+"K2-32 e", "K2-32", "Transit", 2019, "K2", 1.212, 2.1, 1066
+"Kepler-74 b", "Kepler-74", "Transit", 2013, "Kepler", 14.8, 216.12, 1250
+"TrES-2 b", "TrES-2", "Transit", 2006, "TrES", 14.135, 398.241, 1467
+"HATS-26 b", "HATS-26", "Transit", 2016, "HATSouth", 19.616, 206.589, 1918
+"WASP-89 b", "WASP-89", "Transit", 2015, "SuperWASP", 11.657, 1875.2, 1120
+"NGTS-8 b", "NGTS-8", "Transit", 2019, "Paranal Observatory", 12.218, 295.582, 1345
+"WASP-78 b", "WASP-78", "Transit", 2012, "SuperWASP", 19.055, 282.857, 2350
+"CoRoT-4 b", "CoRoT-4", "Transit", 2008, "CoRoT", 13.002, 232.334, 1058
+"HD 15337 b", "HD 15337", "Transit", 2019, "Transiting Exoplanet Survey Satellite (TESS)", 1.699, 7.2, 1006
+"CoRoT-18 b", "CoRoT-18", "Transit", 2011, "CoRoT", 12.846, 1048.84, 1487
+"Kepler-36 b", "Kepler-36", "Transit", 2012, "Kepler", 1.486, 4.45, 978
+"Kepler-43 b", "Kepler-43", "Transit", 2011, "Kepler", 13.45, 1026.55, 1637
+"HAT-P-32 b", "HAT-P-32", "Transit", 2011, "HATNet", 22.194, 216.124, 1836
+"KELT-16 b", "KELT-16", "Transit", 2017, "KELT", 15.861, 874.033, 2453
+"WASP-68 b", "WASP-68", "Transit", 2014, "SuperWASP", 13.9, 301.93, 1490
+"K2-285 c", "K2-285", "Transit", 2018, "K2", 3.53, 15.68, 741
+"K2-233 b", "K2-233", "Transit", 2018, "K2", 1.343, 11.26, 1121
+"WASP-4 b", "WASP-4", "Transit", 2007, "SuperWASP", 15.289, 396.97, 1673
+"XO-5 b", "XO-5", "Transit", 2008, "XO", 12.207, 344.528, 1203
+"Kepler-107 e", "Kepler-107", "Transit", 2014, "Kepler", 2.903, 8.6, 955
+"KOI-13 b", "KOI-13", "Transit", 2011, "Kepler", 16.948, 2949.46, 2550
+"CoRoT-11 b", "CoRoT-11", "Transit", 2010, "CoRoT", 15.984, 743.722, 1735
+"Kepler-76 b", "Kepler-76", "Orbital Brightness Modulation", 2013, "Kepler", 15.244, 638.838, 2140
+"HD 1397 b", "HD 1397", "Transit", 2018, "Transiting Exoplanet Survey Satellite (TESS)", 11.467, 116.644, 1519
+"Kepler-62 b", "Kepler-62", "Transit", 2013, "Kepler", 1.31, 9, 750
+"HAT-P-36 b", "HAT-P-36", "Transit", 2011, "HATNet", 14.617, 588.621, 1788
+"WASP-174 b", "WASP-174", "Transit", 2018, "SuperWASP-South", 14.572, 413.179, 1490
+"K2-18 b", "K2-18", "Transit", 2015, "K2", 2.38, 7.96, 235
+"Qatar-3 b", "Qatar-3", "Transit", 2017, "Qatar", 12.285, 1369.85, 1681
+"K2-18 b", "K2-18", "Transit", 2015, "K2", 2.37, 8.92, 284
+"KOI-94 b", "KOI-94", "Transit", 2013, "Kepler", 1.71, 10.5, 1486
+"HATS-46 b", "HATS-46", "Transit", 2018, "HATSouth", 10.122, 54.9846, 1054
+"KELT-23 A b", "KELT-23 A", "Transit", 2019, "KELT-North", 14.83, 298.125, 1561
+"MASCARA-4 b", "MASCARA-4", "Transit", 2020, "Multiple Observatories", 17.15, 985.273, 2100
+"HATS-72 b", "HATS-72", "Transit", 2020, "HATSouth", 8.097, 39.8559, 739
+"CoRoT-19 b", "CoRoT-19", "Transit", 2011, "CoRoT", 14.46, 352.78, 2000
+"HATS-9 b", "HATS-9", "Transit", 2015, "HATSouth", 11.938, 266.024, 1823
+"Kepler-41 b", "Kepler-41", "Transit", 2011, "Kepler", 14.46, 177.98, 1790
+"WASP-77 A b", "WASP-77 A", "Transit", 2012, "SuperWASP", 13.5, 572.1, 1650
+"HD 149026 b", "HD 149026", "Radial Velocity", 2005, "Subaru Telescope", 7.331, 114.101, 1634
+"WASP-18 b", "WASP-18", "Transit", 2009, "SuperWASP", 13.036, 3299.08, 2413
+"HAT-P-22 b", "HAT-P-22", "Transit", 2010, "HATNet", 12.106, 682.352, 1283
+"HATS-65 b", "HATS-65", "Transit", 2018, "HATSouth", 16.825, 260.938, 1634
+"HAT-P-3 b", "HAT-P-3", "Transit", 2007, "HATNet", 10.615, 185.613, 1189
+"HD 89345 b", "HD 89345", "Transit", 2018, "K2", 7.263, 38.4574, 1068
+"WASP-141 b", "WASP-141", "Transit", 2016, "SuperWASP-South", 13.563, 854.963, 1540
+"CoRoT-12 b", "CoRoT-12", "Transit", 2010, "CoRoT", 15.132, 281.915, 1410
+"EPIC 220674823 c", "EPIC 220674823", "Transit", 2016, "K2", 2.77, 5.7, 722
+"WASP-19 b", "WASP-19", "Transit", 2009, "SuperWASP", 15.424, 370.272, 2058
+"CoRoT-7 b", "CoRoT-7", "Transit", 2009, "CoRoT", 1.861, 6.99226, 1910
+"WASP-10 b", "WASP-10", "Transit", 2008, "SuperWASP", 12.106, 1001.12, 1370
+"K2-233 c", "K2-233", "Transit", 2018, "K2", 1.281, 12.81, 790
+"OGLE-TR-132 b", "OGLE-TR-132", "Transit", 2004, "OGLE", 13.776, 371.861, 1991
+"WASP-81 b", "WASP-81", "Transit", 2017, "Multiple Facilities", 16.018, 231.698, 1623
+"K2-24 b", "K2-24", "Transit", 2016, "K2", 5.68, 21, 767
+"WASP-118 b", "WASP-118", "Transit", 2016, "SuperWASP", 15.625, 165.272, 1753
+"K2-32 c", "K2-32", "Transit", 2016, "K2", 3.134, 8.1, 634
+"WASP-80 b", "WASP-80", "Transit", 2012, "SuperWASP", 11.052, 178.62, 825
+"HAT-P-14 b", "HAT-P-14", "Transit", 2010, "HATNet", 13.451, 724.652, 1612
+"TRAPPIST-1 f", "TRAPPIST-1", "Transit", 2017, "Multiple Observatories", 1.045, 0.68, 219
+"HD 189733 b", "HD 189733", "Radial Velocity", 2005, "Haute-Provence Observatory", 12.902, 365.505, 1191
+"HATS-14 b", "HATS-14", "Transit", 2015, "HATSouth", 11.646, 340.396, 1276
+"WASP-161 b", "WASP-161", "Transit", 2018, "SuperWASP-South", 12.812, 791.397, 1557
+"Kepler-41 b", "Kepler-41", "Transit", 2011, "Kepler", 9.55, 156.69, 1554
+"TOI-178 b", "TOI-178", "Transit", 2021, "Transiting Exoplanet Survey Satellite (TESS)", 1.152, 1.5, 1040
+"K2-295 b", "K2-295", "Transit", 2018, "K2", 10.054, 106.473, 852
+"WASP-42 b", "WASP-42", "Transit", 2012, "SuperWASP", 12.576, 167.496, 1021
+"WASP-21 b", "WASP-21", "Transit", 2010, "SuperWASP", 14.157, 93.7599, 1340
+"CoRoT-1 b", "CoRoT-1", "Transit", 2008, "CoRoT", 17.385, 327.365, 1915
+"HD 219134 c", "HD 219134", "Radial Velocity", 2015, "Roque de los Muchachos Observatory", 1.511, 4.36, 782
+"WASP-158 b", "WASP-158", "Transit", 2018, "SuperWASP-South", 11.994, 886.746, 1590
+"WASP-36 b", "WASP-36", "Transit", 2011, "SuperWASP", 14.874, 750.397, 1733
+"WASP-76 b", "WASP-76", "Transit", 2016, "SuperWASP", 20.512, 292.404, 2160
+"NGTS-5 b", "NGTS-5", "Transit", 2019, "Paranal Observatory", 12.733, 72.7831, 952
+"NGTS-17 b", "NGTS-17", "Transit", 2021, "Paranal Observatory", 13.899, 242.821, 1457
+"HAT-P-13 b", "HAT-P-13", "Transit", 2009, "HATNet", 14.359, 271.098, 1653
+"K2-34 b", "K2-34", "Transit", 2016, "K2", 15.435, 539.675, 1715
+"TOI-178 g", "TOI-178", "Transit", 2021, "Transiting Exoplanet Survey Satellite (TESS)", 2.87, 3.94, 470
+"LHS 1140 c", "LHS 1140", "Transit", 2018, "Multiple Observatories", 1.282, 1.81, 438
+"WASP-17 b", "WASP-17", "Transit", 2009, "SuperWASP", 21.656, 151.605, 1755
+"HAT-P-65 b", "HAT-P-65", "Transit", 2016, "HATNet", 21.185, 167.496, 1930
+"Kepler-433 b", "Kepler-433", "Transit", 2015, "Kepler", 16.25, 896.24, 1776
+"HIP 65426 b", "HIP 65426", "Imaging", 2017, "Paranal Observatory", 16.814, 2860.47, 1500
+"HATS-62 b", "HATS-62", "Transit", 2018, "HATSouth", 11.825, 56.8916, 1237
+"K2-32 c", "K2-32", "Transit", 2016, "K2", 3.01, 12.1, 619
+"Qatar-10 b", "Qatar-10", "Transit", 2019, "Qatar", 17.295, 233.923, 1955
+"KELT-14 b", "KELT-14", "Transit", 2016, "KELT-South", 19.537, 408.094, 1970
+"KELT-14 b", "KELT-14", "Transit", 2016, "KELT-South", 17.038, 380.125, 1904
+"K2-232 b", "K2-232", "Transit", 2018, "K2", 11.209, 126.496, 1030
+"PH1 b", "PH1", "Transit", 2012, "Kepler", 6.18, 169, 481
+"WASP-117 b", "WASP-117", "Transit", 2014, "SuperWASP", 11.444, 87.5585, 1001
+"NGTS-18 b", "NGTS-18", "Transit", 2021, "Paranal Observatory", 13.563, 129.992, 1381
+"TOI-1266 c", "TOI-1266", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 1.56, 2.2, 344
+"WASP-24 b", "WASP-24", "Transit", 2010, "SuperWASP", 14.605, 352.473, 1772
+"HAT-P-35 b", "HAT-P-35", "Transit", 2011, "HATNet", 14.93, 334.979, 1581
+"TOI-269 b", "TOI-269", "Transit", 2021, "Transiting Exoplanet Survey Satellite (TESS)", 2.77, 8.8, 531
+"TrES-5 b", "TrES-5", "Transit", 2011, "TrES", 13.384, 568.916, 1480
+"TRAPPIST-1 g", "TRAPPIST-1", "Transit", 2017, "Multiple Observatories", 1.127, 1.34, 199
+"HATS-67 b", "HATS-67", "Transit", 2018, "HATSouth", 18.887, 460.853, 2193
+"K2-266 e", "K2-266", "Transit", 2018, "K2", 2.73, 14.3, 490
+"Kepler-411 d", "Kepler-411", "Transit", 2018, "Kepler", 3.319, 15.2, 410
+"WASP-168 b", "WASP-168", "Transit", 2018, "SuperWASP-South", 16.814, 133.489, 1340
+"HATS-39 b", "HATS-39", "Transit", 2018, "HATSouth", 17.598, 200.233, 1645
+"Kepler-44 b", "Kepler-44", "Transit", 2011, "Kepler", 13.451, 327.365, 1568
+"HATS-24 b", "HATS-24", "Transit", 2017, "HATSouth", 16.668, 775.505, 2067
+"WASP-1 b", "WASP-1", "Transit", 2007, "SuperWASP", 16.735, 311.473, 1830
+"K2-290 b", "K2-290", "Transit", 2019, "K2", 3.06, 10.9, 1230
+"WASP-107 b", "WASP-107", "Transit", 2017, "SuperWASP-South", 10.357, 37.8218, 736
+"TOI-216.01", "TOI-216", "Transit", 2019, "Transiting Exoplanet Survey Satellite (TESS)", 11.29, 200, 497
+"Qatar-5 b", "Qatar-5", "Transit", 2017, "Qatar", 12.408, 1373.03, 1415
+"WASP-12 b", "WASP-12", "Transit", 2008, "SuperWASP", 20.849, 638.838, 2483
+"NGTS-2 b", "NGTS-2", "Transit", 2018, "Paranal Observatory", 17.878, 235.194, 1468
+"HAT-P-38 b", "HAT-P-38", "Transit", 2012, "HATNet", 9.247, 84.857, 1082
+"Kepler-6 b", "Kepler-6", "Transit", 2009, "Kepler", 14.617, 212.31, 1460
+"Kepler-1661 b", "Kepler-1661", "Transit", 2020, "Kepler", 3.87, 17, 243
+"NGTS-15 b", "NGTS-15", "Transit", 2021, "Paranal Observatory", 12.33, 238.689, 1146
+"WASP-151 b", "WASP-151", "Transit", 2017, "SuperWASP-South", 12.666, 98.5273, 1290
+"GJ 486 b", "GJ 486", "Radial Velocity", 2021, "Calar Alto Observatory", 1.305, 2.82, 701
+"EPIC 249893012 d", "EPIC 249893012", "Transit", 2020, "K2", 3.94, 10.18, 752
+"WASP-162 b", "WASP-162", "Transit", 2018, "SuperWASP-South", 11.209, 1652.72, 910
+"HATS-15 b", "HATS-15", "Transit", 2016, "HATSouth", 12.386, 689.691, 1505
+"HAT-P-2 b", "HAT-P-2", "Transit", 2007, "HATNet", 12.969, 2888.95, 1540
+"WASP-39 b", "WASP-39", "Transit", 2011, "SuperWASP", 14.336, 89.3102, 1166
+"WASP-1 b", "WASP-1", "Transit", 2007, "SuperWASP", 16.634, 273.334, 1800
+"HAT-P-9 b", "HAT-P-9", "Transit", 2008, "HATNet", 15.614, 238.055, 1540
+"HATS-66 b", "HATS-66", "Transit", 2018, "HATSouth", 15.816, 1694.03, 1998
+"K2-18 b", "K2-18", "Transit", 2015, "K2", 2.61, 8.63, 255
+"Wendelstein-1 b", "Wendelstein-1", "Transit", 2020, "Haleakala Observatory", 11.561, 188.155, 2198
+"WASP-5 b", "WASP-5", "Transit", 2008, "SuperWASP", 12.184, 502.15, 1706
+"CoRoT-14 b", "CoRoT-14", "Transit", 2010, "CoRoT", 11.411, 2437.76, 1936
+"WASP-3 b", "WASP-3", "Transit", 2007, "SuperWASP", 16.298, 654.73, 2028
+"WASP-60 b", "WASP-60", "Transit", 2012, "SuperWASP", 9.64, 163.358, 1320
+"WASP-64 b", "WASP-64", "Transit", 2012, "SuperWASP", 14.247, 403.945, 1689
+"WASP-129 b", "WASP-129", "Transit", 2016, "SuperWASP-South", 10.424, 317.83, 1100
+"1RXS J160929.1-210524 b", "1RXS J160929.1-210524", "Imaging", 2008, "Gemini Observatory", 18.647, 2543, 1800
+"WASP-1 b", "WASP-1", "Transit", 2007, "SuperWASP", 16.242, 268.884, 1812
+"CoRoT-9 b", "CoRoT-9", "Transit", 2009, "CoRoT", 11.949, 266.977, 420
+"XO-2 N b", "XO-2 N", "Transit", 2007, "XO", 11.03, 188.473, 1328
+"WASP-165 b", "WASP-165", "Transit", 2018, "SuperWASP-South", 14.123, 209.132, 1624
+"WASP-93 b", "WASP-93", "Transit", 2016, "SuperWASP", 17.901, 467.21, 1942
+"EPIC 211945201 b", "EPIC 211945201", "Transit", 2018, "K2", 6.12, 27, 886
+"TOI-1130 c", "TOI-1130", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 16.814, 309.566, 637
+"KOI-3680 b", "KOI-3680", "Transit", 2018, "Kepler", 11.097, 613.412, 347
+"WASP-12 b", "WASP-12", "Transit", 2008, "SuperWASP", 21.712, 465.621, 2593
+"Kepler-75 b", "Kepler-75", "Transit", 2013, "Kepler", 11.77, 3209.9, 767
+"CoRoT-24 c", "CoRoT-24", "Transit", 2014, "CoRoT", 5, 28, 850
+"WTS-2 b", "WTS-2", "Transit", 2014, "United Kingdom Infrared Telescope", 15.278, 355.97, 2000
+"Qatar-2 b", "Qatar-2", "Transit", 2011, "Qatar", 12.823, 790.41, 1292
+"TOI-178 c", "TOI-178", "Transit", 2021, "Transiting Exoplanet Survey Satellite (TESS)", 1.669, 4.77, 873
+"Kepler-10 b", "Kepler-10", "Transit", 2011, "Kepler", 1.46, 4.6, 2160
+"XO-2 N b", "XO-2 N", "Transit", 2007, "XO", 11.119, 176.396, 1328
+"WASP-45 b", "WASP-45", "Transit", 2011, "SuperWASP", 10.604, 306.388, 1153
+"K2-107 b", "K2-107", "Transit", 2017, "K2", 16.141, 266.977, 1780
+"Qatar-1 b", "Qatar-1", "Transit", 2010, "Qatar", 13.227, 422.714, 1389
+"TOI-1231 b", "TOI-1231", "Transit", 2021, "Transiting Exoplanet Survey Satellite (TESS)", 3.65, 15.4, 330
+"Kepler-6 b", "Kepler-6", "Transit", 2009, "Kepler", 14.83, 212.619, 1500
+"HAT-P-23 b", "HAT-P-23", "Transit", 2010, "HATNet", 15.334, 664.237, 2056
+"CoRoT-11 b", "CoRoT-11", "Transit", 2010, "CoRoT", 16.03, 740.51, 1657
+"WASP-177 b", "WASP-177", "Transit", 2019, "SuperWASP", 17.71, 161.458, 1142
+"Kepler-4 b", "Kepler-4", "Transit", 2009, "Kepler", 4.125, 23.8373, 1620
+"HATS-70 b", "HATS-70", "Transit", 2019, "HATSouth", 15.513, 4100.01, 2730
+"TYC 8998-760-1 c", "TYC 8998-760-1", "Imaging", 2020, "Paranal Observatory", 12.33, 1906.98, 1240
+"HATS-17 b", "HATS-17", "Transit", 2016, "HATSouth", 8.709, 425.257, 814
+"CoRoT-8 b", "CoRoT-8", "Transit", 2010, "CoRoT", 6.938, 69.2869, 870
+"NGTS-12 b", "NGTS-12", "Transit", 2020, "Paranal Observatory", 11.747, 66.1086, 1257
+"Kepler-38 b", "Kepler-38", "Transit", 2012, "Kepler", 4.3, 122, 475
+"WASP-190 b", "WASP-190", "Transit", 2019, "WASP-South", 12.89, 317.83, 1500
+"CoRoT-25 b", "CoRoT-25", "Transit", 2013, "CoRoT", 12.11, 85.81, 1330
+"K2-229 c", "K2-229", "Transit", 2018, "K2", 2.12, 21.3, 800
+"HATS-54 b", "HATS-54", "Transit", 2019, "HATSouth", 11.96, 241.551, 1625
+"Kepler-91 b", "Kepler-91", "Transit", 2013, "Kepler", 15.323, 257.442, 2040
+"KELT-6 b", "KELT-6", "Transit", 2014, "KELT", 13.372, 136.661, 1313
+"K2-141 b", "K2-141", "Transit", 2018, "K2", 1.54, 5.31, 2039
+"WASP-26 b", "WASP-26", "Transit", 2010, "SuperWASP", 13.63, 324.187, 1650
+"HATS-30 b", "HATS-30", "Transit", 2016, "HATSouth", 13.171, 224.388, 1414
+"Kepler-412 b", "Kepler-412", "Transit", 2014, "Kepler", 15.031, 299.078, 1850
+"K2-137 b", "K2-137", "Transit", 2017, "K2", 0.89, 158.915, 1471
+"TOI-481 b", "TOI-481", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 11.097, 486.28, 1370
+"CoRoT-17 b", "CoRoT-17", "Transit", 2011, "CoRoT", 11.287, 781.862, 1610
+"WASP-107 b", "WASP-107", "Transit", 2017, "SuperWASP-South", 10.536, 38.1396, 770
+"HAT-P-17 b", "HAT-P-17", "Transit", 2010, "HATNet", 11.321, 169.71, 792
+"Kepler-1654 b", "Kepler-1654", "Transit", 2018, "Kepler", 9.18, 158.915, 206
+"HAT-P-20 b", "HAT-P-20", "Transit", 2010, "HATNet", 9.75, 2320.1, 950
+"pi Men c", "HD 39091", "Transit", 2018, "Transiting Exoplanet Survey Satellite (TESS)", 2.042, 4.82, 1170
+"K2-38 c", "K2-38", "Transit", 2016, "K2", 2.42, 9.9, 858
+"HD 189733 b", "HD 189733", "Radial Velocity", 2005, "Haute-Provence Observatory", 12.756, 363.582, 1201
+"Kepler-1656 b", "Kepler-1656", "Transit", 2018, "Kepler", 5.02, 48.6, 651
+"CoRoT-20 b", "CoRoT-20", "Transit", 2011, "CoRoT", 13.002, 1608.22, 1100
+"K2-113 b", "K2-113", "Transit", 2017, "K2", 10.424, 410.001, 1178
+"CoRoT-18 b", "CoRoT-18", "Transit", 2011, "CoRoT", 14.68, 1102.82, 1550
+"Kepler-107 b", "Kepler-107", "Transit", 2014, "Kepler", 1.536, 3.51, 1593
+"HAT-P-7 b", "HAT-P-7", "Transit", 2008, "HATNet", 16.713, 534.59, 2700
+"Kepler-12 b", "Kepler-12", "Transit", 2011, "Kepler", 19.661, 137.303, 1480
+"LTT 3780 c", "LTT 3780", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 2.3, 8.6, 353
+"K2-36 c", "K2-36", "Transit", 2016, "K2", 3.2, 7.8, 788
+"HATS-42 b", "HATS-42", "Transit", 2018, "HATSouth", 15.693, 597.52, 1856
+"K2-261 b", "K2-261", "Transit", 2018, "K2", 9.528, 70.8761, 1080
+"WASP-192 b", "WASP-192", "Transit", 2019, "WASP-South", 13.787, 731.009, 1620
+"XO-6 b", "XO-6", "Transit", 2016, "XO", 23.203, 1398.45, 1577
+"WASP-19 b", "WASP-19", "Transit", 2009, "SuperWASP", 15.637, 354.063, 2067
+"WASP-140 b", "WASP-140", "Transit", 2016, "SuperWASP-South", 16.141, 775.505, 1320
+"GJ 9827 b", "GJ 9827", "Transit", 2017, "K2", 1.62, 3.42, 1172
+"KELT-24 b", "KELT-24", "Transit", 2019, "KELT-North", 14.258, 1646.36, 1459
+"WASP-103 b", "WASP-103", "Transit", 2014, "SuperWASP", 18.45, 467.21, 2489
+"WASP-19 b", "WASP-19", "Transit", 2009, "SuperWASP", 15.536, 371.21, 2050
+"WASP-22 b", "WASP-22", "Transit", 2010, "SuperWASP", 13.44, 196.101, 1502
+"HATS-44 b", "HATS-44", "Transit", 2018, "HATSouth", 11.96, 177.985, 1161
+"WASP-183 b", "WASP-183", "Transit", 2019, "SuperWASP", 16.477, 159.551, 1111
+"TOI-169 b", "TOI-169", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 12.173, 251.404, 1715
+"K2-260 b", "K2-260", "Transit", 2018, "K2", 17.396, 451.319, 1957
+"HATS-23 b", "HATS-23", "Transit", 2017, "HATSouth", 20.849, 467.21, 1654
+"Kepler-62 d", "Kepler-62", "Transit", 2013, "Kepler", 1.95, 14, 510
+"WASP-114 b", "WASP-114", "Transit", 2016, "SuperWASP-North", 15.009, 562.241, 2043
+"K2-114 b", "K2-114", "Transit", 2017, "K2", 10.559, 587.986, 719
+"HAT-P-39 b", "HAT-P-39", "Transit", 2012, "HATNet", 17.609, 190.372, 1752
+"CoRoT-3 b", "CoRoT-3", "Transit", 2008, "CoRoT", 11.624, 6979.55, 1695
+"KELT-17 b", "KELT-17", "Transit", 2016, "KELT", 17.094, 416.357, 2087
+"Kepler-62 e", "Kepler-62", "Transit", 2013, "Kepler", 1.61, 36, 270
+"WASP-54 b", "WASP-54", "Transit", 2012, "SuperWASP", 18.528, 202.131, 1759
+"HAT-P-1 b", "HAT-P-1", "Transit", 2006, "HATNet", 13.641, 166.543, 1291
+"K2-30 b", "K2-30", "Transit", 2016, "K2", 13.406, 198.008, 1185
+"XO-5 b", "XO-5", "Transit", 2008, "XO", 12.89, 365.505, 1244
+"TOI-776 c", "TOI-776", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 2.02, 5.3, 415
+"TOI-220 b", "TOI-220", "Transit", 2021, "Transiting Exoplanet Survey Satellite (TESS)", 3.03, 13.8, 805
+"HD 209458 b", "HD 209458", "Radial Velocity", 1999, "W. M. Keck Observatory", 15.468, 226.931, 1459
+"WASP-69 b", "WASP-69", "Transit", 2014, "SuperWASP", 11.848, 82.6358, 963
+"CoRoT-23 b", "CoRoT-23", "Transit", 2011, "CoRoT", 13.227, 972.56, 1710
+"Kepler-1514 b", "Kepler-1514", "Transit", 2016, "Kepler", 12.42, 1678.14, 388
+"WASP-16 b", "WASP-16", "Transit", 2009, "SuperWASP", 13.653, 264.435, 1389
+"Qatar-1 b", "Qatar-1", "Transit", 2010, "Qatar", 12.801, 410.954, 1388
+"HATS-18 b", "HATS-18", "Transit", 2016, "Multiple Observatories", 14.986, 629.303, 2060
+"HAT-P-16 b", "HAT-P-16", "Transit", 2010, "HATNet", 13.339, 1331.39, 1571
+"HAT-P-28 b", "HAT-P-28", "Transit", 2011, "HATNet", 13.585, 198.953, 1384
+"WASP-17 b", "WASP-17", "Transit", 2009, "SuperWASP", 22.317, 154.465, 1771
+"CoRoT-24 b", "CoRoT-24", "Transit", 2014, "CoRoT", 3.7, 5.7, 1070
+"TrES-4 b", "TrES-4", "Transit", 2007, "TrES", 20.288, 278.737, 1861
+"LHS 1815 b", "LHS 1815", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 1.088, 8.7, 617
+"CoRoT-4 b", "CoRoT-4", "Transit", 2008, "CoRoT", 13.34, 228.83, 1074
+"WASP-60 b", "WASP-60", "Transit", 2012, "SuperWASP", 13.731, 177.985, 1479
+"HAT-P-23 b", "HAT-P-23", "Transit", 2010, "HATNet", 13.72, 658, 1951
+"TOI-178 d", "TOI-178", "Transit", 2021, "Transiting Exoplanet Survey Satellite (TESS)", 2.572, 3.01, 690
+"WD 1856+534 b", "WD 1856+534", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 10.4, 4386.05, 163
+"K2-27 b", "K2-27", "Transit", 2016, "K2", 4.48, 30.9, 902
+"WASP-11 b", "WASP-11", "Transit", 2008, "SuperWASP", 11.097, 156.372, 992
+"GJ 436 b", "GJ 436", "Radial Velocity", 2004, "W. M. Keck Observatory", 4.222, 23.1688, 649
+"WASP-101 b", "WASP-101", "Transit", 2014, "SuperWASP", 15.8, 158.91, 1560
+"WASP-20 b", "WASP-20", "Transit", 2015, "SuperWASP", 16.388, 98.841, 1379
+"HAT-P-22 b", "HAT-P-22", "Transit", 2010, "HATNet", 12.106, 682.699, 1463
+"WASP-33 b", "WASP-33", "Transit", 2010, "SuperWASP", 18.82, 1042.48, 2723
+"LHS 1140 b", "LHS 1140", "Transit", 2017, "MEarth Project", 1.635, 6.38, 379
+"WASP-164 b", "WASP-164", "Transit", 2018, "SuperWASP-South", 12.644, 676.978, 1610
+"HATS-47 b", "HATS-47", "Transit", 2020, "HATSouth", 12.52, 117.279, 853
+"KPS-1 b", "KPS-1", "Transit", 2018, "Acton Sky Portal Observatory", 11.545, 346.435, 1459
+"HAT-P-15 b", "HAT-P-15", "Transit", 2010, "HATNet", 12.016, 618.471, 904
+"WASP-84 b", "WASP-84", "Transit", 2014, "SuperWASP", 10.559, 220.565, 797
+"TOI-201 b", "TOI-201", "Transit", 2021, "Transiting Exoplanet Survey Satellite (TESS)", 11.299, 133.489, 759
+"KELT-15 b", "KELT-15", "Transit", 2016, "KELT-South", 16.175, 289.225, 1642
+"TIC 237913194 b", "TIC 237913194", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 12.52, 617.226, 974
+"NGTS-4 b", "NGTS-4", "Transit", 2019, "Paranal Observatory", 3.18, 20.6, 1650
+"HAT-P-45 b", "HAT-P-45", "Transit", 2014, "HATNet", 15.984, 283.492, 1652
+"Kepler-87 c", "Kepler-87", "Transit", 2013, "Kepler", 6.14, 6.4, 403
+"TOI-561 f", "TOI-561", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 2.32, 3, 750
+"Kepler-4 b", "Kepler-4", "Transit", 2009, "Kepler", 4.002, 24.472, 1650
+"TOI-163 b", "TOI-163", "Transit", 2019, "Transiting Exoplanet Survey Satellite (TESS)", 16.69, 387.753, 1669
+"XO-7 b", "XO-7", "Transit", 2019, "XO", 15.39, 225.341, 1743
+"WASP-182 b", "WASP-182", "Transit", 2019, "WASP-South", 9.528, 47.0388, 1479
+"HD 89345 b", "HD 89345", "Transit", 2018, "K2", 6.86, 35.7, 1053
+"HD 97658 b", "HD 97658", "Radial Velocity", 2010, "W. M. Keck Observatory", 2.247, 7.55, 757
+"Kepler-17 b", "Kepler-17", "Transit", 2011, "Kepler", 14.684, 743.722, 1712
+"WASP-11 b", "WASP-11", "Transit", 2008, "SuperWASP", 10.2, 168.45, 960
+"Qatar-7 b", "Qatar-7", "Transit", 2019, "Qatar", 19.055, 597.52, 2053
+"HAT-P-42 b", "HAT-P-42", "Transit", 2012, "HATNet", 14.348, 331.801, 1428
+"HAT-P-19 b", "HAT-P-19", "Transit", 2010, "HATNet", 12.689, 92.802, 1010
+"TOI-892 b", "TOI-892", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 11.994, 301.938, 1397
+"HATS-60 b", "HATS-60", "Transit", 2018, "HATSouth", 12.924, 210.403, 1528
+"HATS-1 b", "HATS-1", "Transit", 2012, "HATSouth", 14.594, 589.55, 1359
+"Kepler-107 d", "Kepler-107", "Transit", 2014, "Kepler", 0.86, 3.8, 1173
+"HAT-P-31 b", "HAT-P-31", "Transit", 2011, "HATNet", 11.99, 689.98, 1450
+"OGLE-TR-132 b", "OGLE-TR-132", "Transit", 2004, "OGLE", 14.011, 371.861, 2017
+"Kepler-425 b", "Kepler-425", "Transit", 2014, "Kepler", 10.962, 79.45, 1070
+"HATS-2 b", "HATS-2", "Transit", 2013, "HATSouth", 13.092, 427.463, 1577
+"CoRoT-17 b", "CoRoT-17", "Transit", 2011, "CoRoT", 11.43, 772.29, 1626
+"HAT-P-22 b", "HAT-P-22", "Transit", 2010, "HATNet", 11.882, 696.683, 1293
+"TOI-905 b", "TOI-905", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 13.126, 211.993, 1192
+"K2-108 b", "K2-108", "Transit", 2017, "K2", 5.28, 59.4, 1446
+"CoRoT-12 b", "CoRoT-12", "Transit", 2010, "CoRoT", 16.14, 291.438, 1442
+"HAT-P-33 b", "HAT-P-33", "Transit", 2011, "HATNet", 18.898, 242.176, 1782
+"HATS-48 A b", "HATS-48 A", "Transit", 2020, "HATSouth", 8.967, 77.2327, 955
+"HAT-P-1 b", "HAT-P-1", "Transit", 2006, "HATNet", 14.785, 166.861, 1322
+"BD+20 594 b", "BD+20 594", "Transit", 2016, "K2", 2.23, 16.3, 546
+"CoRoT-2 b", "CoRoT-2", "Transit", 2008, "CoRoT", 16.477, 1150.54, 1548
+"Qatar-8 b", "Qatar-8", "Transit", 2019, "Qatar", 14.404, 117.915, 1457
+"K2-32 b", "K2-32", "Transit", 2016, "K2", 5.13, 16.5, 817
+"KELT-4 A b", "KELT-4 A", "Transit", 2016, "KELT", 19.044, 286.683, 1823
+"WASP-44 b", "WASP-44", "Transit", 2011, "SuperWASP", 10.985, 275.559, 1304
+"Kepler-10 c", "Kepler-10", "Transit", 2011, "Kepler", 2.227, 20, 485
+"HAT-P-2 b", "HAT-P-2", "Transit", 2007, "HATNet", 11.243, 2771.48, 1398
+"GJ 3473 b", "GJ 3473", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 1.264, 1.86, 773
+"HAT-P-32 b", "HAT-P-32", "Transit", 2011, "HATNet", 20.053, 273.322, 1786
+"WASP-163 b", "WASP-163", "Transit", 2018, "SuperWASP-South", 13.473, 594.342, 1638
+"KELT-9 b", "KELT-9", "Transit", 2017, "KELT-North", 21.196, 915.35, 4050
+"HATS-56 b", "HATS-56", "Transit", 2019, "HATSouth", 18.921, 191.334, 1902
+"K2-139 b", "K2-139", "Transit", 2017, "K2", 9.057, 123, 565
+"K2-266 d", "K2-266", "Transit", 2018, "K2", 2.93, 8.9, 538
+"Kepler-14 b", "Kepler-14", "Transit", 2011, "Kepler", 12.621, 2440.93, 1605
+"HAT-P-7 b", "HAT-P-7", "Transit", 2008, "HATNet", 15.043, 564.442, 2733
+"HAT-P-11 b", "HAT-P-11", "Transit", 2008, "HATNet", 4.45, 26.6977, 838
+"HD 202772 A b", "HD 202772 A", "Transit", 2019, "Transiting Exoplanet Survey Satellite (TESS)", 17.318, 323.233, 2132
+"HATS-49 b", "HATS-49", "Transit", 2020, "HATSouth", 8.575, 112.194, 835
+"HATS-29 b", "HATS-29", "Transit", 2016, "HATSouth", 14.022, 207.543, 1212
+"Kepler-15 b", "Kepler-15", "Transit", 2011, "Kepler", 14.448, 221.21, 1251
+"LP 714-47 b", "LP 714-47", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 4.7, 30.8, 700
+"Wendelstein-2 b", "Wendelstein-2", "Transit", 2020, "Haleakala Observatory", 12.993, 232.334, 2470
+"HAT-P-4 b", "HAT-P-4", "Transit", 2007, "HATNet", 14.28, 213.255, 1686
+"NGTS-10 b", "NGTS-10", "Transit", 2020, "Paranal Observatory", 13.507, 687.148, 1332
+"TrES-3 b", "TrES-3", "Transit", 2007, "TrES", 14.706, 615.955, 1623
+"WASP-12 b", "WASP-12", "Transit", 2008, "SuperWASP", 20.456, 454.497, 2523
+"CoRoT-6 b", "CoRoT-6", "Transit", 2009, "CoRoT", 13.283, 940.777, 1025
+"TrES-2 b", "TrES-2", "Transit", 2006, "TrES", 13.72, 381.396, 1498
+"Kepler-45 b", "Kepler-45", "Transit", 2011, "Kepler", 11.198, 158.915, 787
+"WASP-5 b", "WASP-5", "Transit", 2008, "SuperWASP", 13.126, 520.288, 1732
+"WASP-41 b", "WASP-41", "Transit", 2012, "SuperWASP", 13.227, 298.76, 1244
+"TrES-1 b", "TrES-1", "Transit", 2004, "TrES", 12.319, 241.869, 1147
+"WASP-119 b", "WASP-119", "Transit", 2016, "SuperWASP-South", 15.693, 390.931, 1600
+"OGLE-TR-113 b", "OGLE-TR-113", "Transit", 2004, "OGLE", 12.195, 390.931, 1342
+"HD 15337 c", "HD 15337", "Transit", 2019, "Transiting Exoplanet Survey Satellite (TESS)", 2.39, 8.11, 642
+"WASP-20 b", "WASP-20", "Transit", 2015, "SuperWASP", 14.348, 120.14, 1282
+"CoRoT-2 b", "CoRoT-2", "Transit", 2008, "CoRoT", 16.365, 1134.65, 1521
+"WASP-97 b", "WASP-97", "Transit", 2014, "SuperWASP", 12.67, 419.52, 1555
+"WASP-178 b", "WASP-178", "Transit", 2019, "WASP-South", 21.745, 448.14, 2402
+"EPIC 248847494 b", "EPIC 248847494", "Transit", 2018, "K2", 12.442, 4131.79, 183
+"WASP-73 b", "WASP-73", "Transit", 2014, "SuperWASP", 13.002, 597.5, 1790
+"Kepler-434 b", "Kepler-434", "Transit", 2015, "Kepler", 12.67, 908.96, 1000
+"OGLE-TR-56 b", "OGLE-TR-56", "Transit", 2002, "OGLE", 13.451, 413.179, 2140
+"HD 89345 b", "HD 89345", "Transit", 2018, "K2", 7.398, 34.9613, 1089
+"WASP-41 b", "WASP-41", "Transit", 2012, "SuperWASP", 13.204, 310.52, 1242
+"HAT-P-21 b", "HAT-P-21", "Transit", 2010, "HATNet", 11.478, 1291.29, 1283
+"WASP-77 A b", "WASP-77 A", "Transit", 2012, "SuperWASP", 13.563, 559.381, 1674
+"Kepler-7 b", "Kepler-7", "Transit", 2009, "Kepler", 18.181, 140.163, 1630
+"Kepler-426 b", "Kepler-426", "Transit", 2014, "Kepler", 12.22, 108.06, 1300
+"WASP-121 b", "WASP-121", "Transit", 2016, "SuperWASP", 20.905, 375.993, 2358
+"K2-233 d", "K2-233", "Transit", 2018, "K2", 2.358, 21.14, 523
+"OGLE2-TR-L9 b", "OGLE2-TR-L9", "Transit", 2008, "OGLE", 18.304, 1398.45, 2034
+"CoRoT-19 b", "CoRoT-19", "Transit", 2011, "CoRoT", 13.339, 346.435, 1630
+"KELT-18 b", "KELT-18", "Transit", 2017, "KELT-North", 17.598, 375.039, 2085
+"WASP-4 b", "WASP-4", "Transit", 2007, "SuperWASP", 15.368, 409.683, 1662
+"LHS 1478 b", "LHS 1478", "Transit", 2021, "Transiting Exoplanet Survey Satellite (TESS)", 1.242, 2.33, 595
+"KELT-19 A b", "KELT-19 A", "Transit", 2017, "KELT", 21.409, 1293.57, 1935
+"TOI-257 b", "TOI-257", "Transit", 2021, "Transiting Exoplanet Survey Satellite (TESS)", 7.163, 43.8603, 1027
+"Kepler-22 b", "Kepler-22", "Transit", 2011, "Kepler", 2.38, 36, 262
+"HAT-P-12 b", "HAT-P-12", "Transit", 2009, "HATNet", 10.749, 67.059, 963
+"Kepler-20 c", "Kepler-20", "Transit", 2011, "Kepler", 3.07, 16.1, 713
+"CoRoT-23 b", "CoRoT-23", "Transit", 2011, "CoRoT", 11.77, 889.9, 1660
+"HAT-P-9 b", "HAT-P-9", "Transit", 2008, "HATNet", 15.69, 247.9, 1530
+"Kepler-117 b", "Kepler-117", "Transit", 2014, "Kepler", 8.059, 29.875, 984
+"CT Cha b", "CT Cha", "Imaging", 2007, "Paranal Observatory", 24.66, 5403, 2600
+"HD 110113 b", "HD 110113", "Transit", 2021, "Transiting Exoplanet Survey Satellite (TESS)", 2.05, 4.55, 1371
+"OGLE-TR-111 b", "OGLE-TR-111", "Transit", 2004, "OGLE", 11.332, 174.806, 1019
+"L 98-59 b", "L 98-59", "Transit", 2019, "Transiting Exoplanet Survey Satellite (TESS)", 0.8, 1.01, 610
+"WASP-28 b", "WASP-28", "Transit", 2014, "SuperWASP", 15.177, 285.717, 1473
+"Kepler-427 b", "Kepler-427", "Transit", 2014, "Kepler", 13.79, 92.17, 1100
+"HATS-31 b", "HATS-31", "Transit", 2016, "HATSouth", 18.383, 279.69, 1823
+"KELT-7 b", "KELT-7", "Transit", 2015, "KELT", 17.183, 406.822, 2048
+"WASP-100 b", "WASP-100", "Transit", 2014, "SuperWASP", 18.94, 645.17, 2190
+"WASP-53 b", "WASP-53", "Transit", 2017, "Multiple Facilities", 12.038, 677.614, 1053
+"WASP-52 b", "WASP-52", "Transit", 2012, "SuperWASP", 14.24, 146.2, 1315
+"WASP-46 b", "WASP-46", "Transit", 2011, "SuperWASP", 13.159, 607.055, 1636
+"HD 189733 b", "HD 189733", "Radial Velocity", 2005, "Haute-Provence Observatory", 12.543, 370.59, 1209
+"NGTS-9 b", "NGTS-9", "Transit", 2019, "Paranal Observatory", 11.994, 921.707, 1448
+"WASP-139 b", "WASP-139", "Transit", 2016, "SuperWASP-South", 8.967, 37.1861, 910
+"TOI-954 b", "TOI-954", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 9.55, 55.3024, 1526
+"Kepler-62 c", "Kepler-62", "Transit", 2013, "Kepler", 0.54, 4, 578
+"CoRoT-26 b", "CoRoT-26", "Transit", 2013, "CoRoT", 14.12, 165.26, 1600
+"HAT-P-37 b", "HAT-P-37", "Transit", 2011, "HATNet", 13.204, 371.528, 1271
+"WASP-48 b", "WASP-48", "Transit", 2011, "SuperWASP", 18.719, 312.745, 2035
+"WASP-2 b", "WASP-2", "Transit", 2007, "SuperWASP", 11.691, 269.202, 1281
+"Kepler-20 b", "Kepler-20", "Transit", 2011, "Kepler", 1.91, 8.7, 1014
+"WASP-29 b", "WASP-29", "Transit", 2010, "SuperWASP", 8.698, 77.5505, 970
+"WASP-133 b", "WASP-133", "Transit", 2016, "SuperWASP-South", 13.563, 368.683, 1790
+"HAT-P-14 b", "HAT-P-14", "Transit", 2010, "HATNet", 13.664, 721.792, 1624
+"WASP-74 b", "WASP-74", "Transit", 2015, "SuperWASP", 17.486, 301.938, 1910
+"WASP-85 A b", "WASP-85 A", "Transit", 2016, "K2", 13.899, 402.055, 1452
+"WASP-127 b", "WASP-127", "Transit", 2016, "SuperWASP", 15.356, 57.2094, 1400
+"HD 332231 b", "HD 332231", "Transit", 2020, "Transiting Exoplanet Survey Satellite (TESS)", 9.718, 77.5505, 876
+"HD 21749 c", "GJ 143", "Transit", 2019, "Transiting Exoplanet Survey Satellite (TESS)", 0.892, 3.7, 701
+"L 98-59 c", "L 98-59", "Transit", 2019, "Transiting Exoplanet Survey Satellite (TESS)", 1.35, 2.42, 517
+"WASP-7 b", "WASP-7", "Transit", 2008, "SuperWASP", 14.908, 305.117, 1487
+"OGLE-TR-10 b", "OGLE-TR-10", "Transit", 2004, "OGLE", 19.279, 216.124, 1702
+"PDS 70 b", "PDS 70", "Imaging", 2018, "Paranal Observatory", 30.488, 953.49, 1204
+"HAT-P-14 b", "HAT-P-14", "Transit", 2010, "HATNet", 12.89, 709.367, 1570
+"WASP-148 b", "WASP-148", "Transit", 2020, "SuperWASP-North", 8.093, 92.4885, 940
